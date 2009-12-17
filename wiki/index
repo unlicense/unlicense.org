@@ -16,6 +16,7 @@ Here follow some examples of well-known [license-free](http://en.wikipedia.org/w
 
 * [SQLite](http://www.sqlite.org/), the [most widely-deployed](http://www.sqlite.org/mostdeployed.html) SQL database in the world, is [in the public domain](http://www.sqlite.org/copyright.html).
 * [qmail](http://www.qmail.org/), the [second-most popular](http://www.qmail.org/top.html) MTA on the Internet, is [in the public domain](http://cr.yp.to/qmail/dist.html).
+* [djbdns](http://cr.yp.to/djbdns.html), the [second-most popular](http://en.wikipedia.org/wiki/Djbdns#cite_note-2) DNS server software on the Internet, is in the public domain.
 * [CMUCL](http://www.cons.org/cmucl/), a popular implementation of the [Common Lisp](http://lispers.org) programming language, is mostly in the public domain.
 * [SBCL](http://www.sbcl.org/), another popular Common Lisp implementation, is likewise mostly [in the public domain](http://www.sbcl.org/history.html).
 * [byacc](http://invisible-island.net/byacc/byacc.html), the Berkeley [Yacc](http://en.wikipedia.org/wiki/Yacc) parser generator, is in the public domain.
