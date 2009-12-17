@@ -12,5 +12,17 @@ Unlicenses
 Unlicensed Software
 -------------------
 
-* [SQLite](http://www.sqlite.org/), the [most widely-deployed](http://www.sqlite.org/mostdeployed.html) SQL database in the world.
-* [Qmail](http://www.qmail.org/), the [second-most popular](http://www.qmail.org/top.html) MTA on the Internet.
+Here follow some examples of well-known [license-free](http://en.wikipedia.org/wiki/License-free_software) public domain software libraries and applications:
+
+* [SQLite](http://www.sqlite.org/), the [most widely-deployed](http://www.sqlite.org/mostdeployed.html) SQL database in the world, is [in the public domain](http://www.sqlite.org/copyright.html).
+* [qmail](http://www.qmail.org/), the [second-most popular](http://www.qmail.org/top.html) MTA on the Internet, is [in the public domain](http://cr.yp.to/qmail/dist.html).
+* [CMUCL](http://www.cons.org/cmucl/), a popular implementation of the [Common Lisp](http://lispers.org) programming language, is mostly in the public domain.
+* [SBCL](http://www.sbcl.org/), another popular Common Lisp implementation, is likewise mostly [in the public domain](http://www.sbcl.org/history.html).
+* [byacc](http://invisible-island.net/byacc/byacc.html), the Berkeley [Yacc](http://en.wikipedia.org/wiki/Yacc) parser generator, is in the public domain.
+* [Lemon](http://www.hwaci.com/sw/lemon/), a modern LALR(1) parser generator, is in the public domain.
+* [re2c](http://re2c.org/), a high-performance lexer generator, is in the public domain.
+* [Docutils](http://docutils.sourceforge.net/), the Python text-processing system, is mostly in the public domain.
+* [PyCrypto](http://www.dlitz.net/software/pycrypto/), the Python cryptography toolkit, is largely in the public domain.
+* [Crypto++](http://www.cryptopp.com/), a cryptographic library for C++, is mostly in the public domain.
+* [MPICH2](http://www.mcs.anl.gov/research/projects/mpich2/), a high-performance implementation of the [MPI](http://en.wikipedia.org/wiki/Message_Passing_Interface) standard, is largely in the public domain.
+* [MinGW](http://www.mingw.org/)'s runtime, which provides POSIX compatibility for Windows, is [in the public domain](http://www.mingw.org/license).
