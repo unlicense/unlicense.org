@@ -26,3 +26,8 @@ Here follow some examples of well-known [license-free](http://en.wikipedia.org/w
 * [Crypto++](http://www.cryptopp.com/), a cryptographic library for C++, is mostly in the public domain.
 * [MPICH2](http://www.mcs.anl.gov/research/projects/mpich2/), a high-performance implementation of the [MPI](http://en.wikipedia.org/wiki/Message_Passing_Interface) standard, is largely in the public domain.
 * [MinGW](http://www.mingw.org/)'s runtime, which provides POSIX compatibility for Windows, is [in the public domain](http://www.mingw.org/license).
+
+Resources
+---------
+
+* [The Surprising History of Copyright and The Promise of a Post-Copyright World](http://questioncopyright.org/promise)
