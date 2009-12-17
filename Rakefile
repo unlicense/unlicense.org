@@ -15,3 +15,7 @@ end
 task :serve do
   sh "markdoc serve"
 end
+
+task :upload => :build do
+  sh "rsync -azv .html/ unlicense.org:sites/unlicense.org/"
+end
