@@ -4,6 +4,10 @@ require 'rake'
 
 task :default => [:build]
 
+task :open => :build do
+  sh "open .html/index.html"
+end
+
 task :build do
   sh "markdoc build"
 end
