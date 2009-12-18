@@ -5,7 +5,7 @@ Be part of the solution, not the problem: go [public domain](http://me.stpeter.i
 
 The Unlicense
 -------------
-To stop being an evil little monopolist and opt out of the copyright game altogether, use the following (un)licensing statement to put your next software project into the [public domain](http://me.stpeter.im/essays/publicdomain.html):
+To stop being an evil little monopolist and opt out of the copyright game altogether, put your next software project into the [public domain](http://me.stpeter.im/essays/publicdomain.html) using the following (un)licensing statement:
 
     :::text
     This is free and unencumbered software released into the public domain.
@@ -38,7 +38,7 @@ Unlicensed Free Software
 The following software projects have adopted the Unlicense or a derivative thereof:
 
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
-* [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880), the most widely-used e-mail encryption standard in the world.
+* [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 
 Public Domain Software
 ----------------------
