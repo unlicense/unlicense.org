@@ -37,7 +37,8 @@ Unlicensed Free Software
 
 The following software projects have adopted the Unlicense or a derivative thereof:
 
-* [OpenPGP.rb](http://openpgp.rubyforge.org/), a pure-Ruby implementation of the OpenPGP Message Format (RFC 4880), the most widely-used e-mail encryption standard in the world.
+* [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
+* [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880), the most widely-used e-mail encryption standard in the world.
 
 Public Domain Software
 ----------------------
