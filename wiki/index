@@ -87,7 +87,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [CMUCL](http://www.cons.org/cmucl/), a popular implementation of the [Common Lisp](http://lispers.org) programming language, is mostly in the public domain.
 * [SBCL](http://www.sbcl.org/), another popular Common Lisp implementation, is likewise mostly [in the public domain](http://www.sbcl.org/history.html).
 * [byacc](http://invisible-island.net/byacc/byacc.html), the Berkeley [Yacc](http://en.wikipedia.org/wiki/Yacc) parser generator, is in the public domain.
-* [Lemon](http://www.hwaci.com/sw/lemon/), a modern LALR(1) parser generator, is in the public domain.
+* [Lemon](http://www.hwaci.com/sw/lemon/), a thread-safe LALR(1) parser generator, is in the public domain.
 * [re2c](http://re2c.org/), a high-performance lexer generator, is in the public domain.
 * [Docutils](http://docutils.sourceforge.net/), the Python text-processing system, is mostly in the public domain.
 * [PyCrypto](http://www.dlitz.net/software/pycrypto/), the Python cryptography toolkit, is largely in the public domain.
