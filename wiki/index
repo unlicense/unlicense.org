@@ -4,7 +4,12 @@ Unlicense Yourself: Set Your Code Free
 What is the Unlicense?
 ----------------------
 
-The Unlicense is a template for disclaiming copyright interest in software you've written; in other words, it is a template for dedicating your software to the [public domain](http://me.stpeter.im/essays/publicdomain.html). It combines a copyright waiver patterned after the very successful public domain [SQLite](http://www.sqlite.org/) project with the no-warranty clause from the widely-used [MIT/X11 license](http://en.wikipedia.org/wiki/MIT_License).
+The Unlicense is a template for disclaiming copyright interest in software you've written; in other words, it is a template for dedicating your software to the [public domain](http://me.stpeter.im/essays/publicdomain.html). It combines a copyright waiver patterned after the [very successful](http://www.sqlite.org/mostdeployed.html) public domain [SQLite](http://www.sqlite.org/) project with the no-warranty statement from the widely-used [MIT/X11 license](http://en.wikipedia.org/wiki/MIT_License).
+
+Why Use the Unlicense?
+----------------------
+
+Because you have more important things to do than enriching lawyers or imposing petty restrictions on users of your code. How often have you passed up on utilizing a great software library just because its [open source](http://www.opensource.org/) license was not compatible with your own preferred [flavor](http://www.opensource.org/licenses/alphabetical) of open source? How many precious hours of your life have you spent deliberating how to license your software or worrying about licensing compatibility with other software? You will never get those hours back, but here's your chance to start cutting your losses. Life's too short, let's get back to coding.
 
 The Unlicense
 -------------
@@ -37,6 +42,8 @@ To opt out of the copyright game altogether and set your code free, put your nex
     
     For more information, please refer to <http://unlicense.org/>
 
+In a saner world, you would only need the first two paragraphs. For the time being you'll probably want to retain the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
+
 You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found using e.g. [Google Code Search](http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24), enabling others to reuse your code in their own unencumbered public domain projects.
 
 Accepting Contributions
@@ -44,7 +51,7 @@ Accepting Contributions
 
 In order to ensure your project remains completely free and unencumbered by copyright, it is advisable that you ask any contributors to explicitly dedicate their code base contributions to the public domain.
 
-At minimum, you should ask them to accompany any patches with a simple statement like the following:
+At minimum, you should ask them to accompany any non-trivial patches with a simple statement like the following:
 
     :::text
     I dedicate any and all copyright interest in this software to the
