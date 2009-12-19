@@ -51,7 +51,7 @@ Better yet is to ask the major contributors to [digitally sign](http://en.wikipe
     :::bash
     $ gpg --no-version --armor --sign WAIVER
 
-If a contributor makes changes or enhancements in his capacity as an employee of some organization, then the above may be insufficient and you would need to ask for a copyright release signed by a company officer. For more information, have a look at [how the SQLite project handles this](http://www.sqlite.org/copyright.html).
+If a contributor makes changes or enhancements in his capacity as an employee of some organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](http://www.sqlite.org/copyright.html). The Free Software Foundation also [provides an example](http://www.fsf.org/licensing/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
 
 Unlicensed Free Software
 ------------------------
