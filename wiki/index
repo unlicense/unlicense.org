@@ -1,11 +1,15 @@
 Unlicense Yourself: Set Your Code Free
 ======================================
 
-Be part of the solution, not the problem: go [public domain](http://me.stpeter.im/essays/publicdomain.html) today.
+What is the Unlicense?
+----------------------
+
+The Unlicense is a template for disclaiming copyright interest in software you've written; in other words, it is a template for dedicating your software to the [public domain](http://me.stpeter.im/essays/publicdomain.html). It combines a copyright waiver patterned after the very successful public domain [SQLite](http://www.sqlite.org/) project with the no-warranty clause from the widely-used [MIT/X11 license](http://en.wikipedia.org/wiki/MIT_License).
 
 The Unlicense
 -------------
-To stop being an evil little monopolist and opt out of the copyright game altogether, put your next software project into the [public domain](http://me.stpeter.im/essays/publicdomain.html) using the following (un)licensing statement:
+
+To opt out of the copyright game altogether and set your code free, put your next software project into the [public domain](http://me.stpeter.im/essays/publicdomain.html) using the following (un)licensing statement:
 
     :::text
     This is free and unencumbered software released into the public domain.
