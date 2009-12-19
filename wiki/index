@@ -46,8 +46,8 @@ In a saner world, you would only need the first two paragraphs. For the time bei
 
 You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found using e.g. [Google Code Search](http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24), enabling others to reuse your code in their own unencumbered public domain projects.
 
-Accepting Contributions
------------------------
+Unlicensing Contributions
+-------------------------
 
 In order to ensure your project remains completely free and unencumbered by copyright, it is advisable that you ask any contributors to explicitly dedicate their code base contributions to the public domain.
 
@@ -60,7 +60,7 @@ At minimum, you should ask them to accompany any non-trivial patches with a simp
     dedication to be an overt act of relinquishment in perpetuity of all
     present and future rights to this software under copyright law.
 
-Better yet is to ask the major contributors to [digitally sign](http://en.wikipedia.org/wiki/Digital_signature) a more explicit copyright release (such as [`WAIVER`](./WAIVER)), and then to keep a record of such signatures in an `AUTHORS` file accompanying your software. Using [GnuPG](http://www.gnupg.org/), contributors can sign a copyright waiver file as follows:
+Better yet is to ask the major contributors to [digitally sign](http://en.wikipedia.org/wiki/Digital_signature) a more explicit copyright release (see an example [`WAIVER`](./WAIVER) file), and then to keep a record of such signatures in an `AUTHORS` file accompanying your software. Using [GnuPG](http://www.gnupg.org/), contributors can sign a copyright waiver file as follows:
 
     :::bash
     $ gpg --no-version --armor --sign WAIVER
