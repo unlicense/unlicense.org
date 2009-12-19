@@ -30,7 +30,7 @@ To stop being an evil little monopolist and opt out of the copyright game altoge
     
     For more information, please refer to <http://unlicense.org/>
 
-You would traditionally put the above statement in a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found using e.g. [Google Code Search](http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24), enabling others to reuse your code in their own unencumbered public domain projects.
+You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found using e.g. [Google Code Search](http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24), enabling others to reuse your code in their own unencumbered public domain projects.
 
 Accepting Contributions
 -----------------------
@@ -56,7 +56,7 @@ If a contributor makes changes or enhancements in his capacity as an employee of
 Unlicensed Free Software
 ------------------------
 
-The following software projects have adopted the Unlicense or a derivative thereof:
+The following software projects have already adopted the Unlicense or a derivative thereof:
 
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
@@ -86,11 +86,13 @@ Other Popular Unlicenses
 
 Some other ways to set your code free:
 
-* [CC0 - Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/)
-* [WTFPL - Do What The Fuck You Want To Public License](http://sam.zoy.org/wtfpl/)
+* [CC0 - Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/) is not intended for software per se.
+* [WTFPL - Do What The Fuck You Want To Public License](http://sam.zoy.org/wtfpl/) can't be beat for blunt directness.
 
 Unlicensing Resources
 ---------------------
+
+If setting your code entirely free still seems like a somewhat daunting prospect, try these perspectives on for size:
 
 * [Who's Afraid of the Public Domain?](http://me.stpeter.im/essays/publicdomain.html)
 * [The Surprising History of Copyright and The Promise of a Post-Copyright World](http://questioncopyright.org/promise)
