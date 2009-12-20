@@ -73,6 +73,7 @@ Unlicensed Free Software
 The following software projects have already adopted the Unlicense or a derivative thereof:
 
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
+* [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a daemon that reports AMQP messages via Growl.
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 
 Public Domain Software
