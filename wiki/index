@@ -76,6 +76,7 @@ The following software projects have already adopted the Unlicense or a derivati
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a daemon that reports AMQP messages via Growl.
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 * [RDF.rb](http://rdfrb.rubyforge.org/), a Ruby library for working with Resource Description Framework (RDF) data.
+* [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
 
 If you would like your own project added to this list, [drop us a note](http://github.com/bendiken/unlicense.org).
 
