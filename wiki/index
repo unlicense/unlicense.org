@@ -44,7 +44,7 @@ To opt out of the copyright game altogether and set your code free, put your nex
 
 In a saner world, you would only need the first two paragraphs. For the time being you'll probably want to retain the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
 
-You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found using e.g. [Google Code Search](http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24), enabling others to reuse your code in their own unencumbered public domain projects.
+You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub](http://www.google.com/search?q=allinurl%3A%22UNLICENSE%22+site%3Agithub.com) or [Google Code Search](http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24), enabling others to reuse your code in their own unencumbered public domain projects.
 
 Unlicensing Contributions
 -------------------------
