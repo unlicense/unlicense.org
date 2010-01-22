@@ -106,6 +106,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [Crypto++](http://www.cryptopp.com/), a cryptographic library for C++, is mostly in the public domain.
 * [MPICH2](http://www.mcs.anl.gov/research/projects/mpich2/), a high-performance implementation of the [MPI](http://en.wikipedia.org/wiki/Message_Passing_Interface) standard, is largely in the public domain.
 * [MinGW](http://www.mingw.org/)'s runtime, which provides POSIX compatibility for Windows, is [in the public domain](http://www.mingw.org/license).
+* [WPDCC](http://www.whoow.org/project/wpdcc/), a public domain C compiler, is in the public domain.
 
 Other Popular Unlicenses
 ------------------------
