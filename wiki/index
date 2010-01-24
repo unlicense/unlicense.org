@@ -81,6 +81,7 @@ The following software projects have already adopted the Unlicense or a derivati
 * [Prosper](http://prosper-lib.com/), a database abstraction layer for PHP 5.3.
 * [RDF.rb](http://rdf.rubyforge.org/), a Ruby library for working with Resource Description Framework (RDF) data.
 * [Trinity](http://trinity.datagraph.org/), a Ruby web framework for publishing Linked Data.
+* [Tubras](http://code.google.com/p/tubras/), a C++/Lua game engine.
 * [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
 
 If you would like your own project added to this list, [drop us a note](http://groups.google.com/group/unlicense) on the mailing list or [create a ticket](http://github.com/bendiken/unlicense.org/issues).
