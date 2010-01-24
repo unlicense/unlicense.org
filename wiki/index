@@ -96,6 +96,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [qmail](http://www.qmail.org/), the [second-most popular](http://www.qmail.org/top.html) MTA on the Internet, is [in the public domain](http://cr.yp.to/qmail/dist.html).
 * [djbdns](http://cr.yp.to/djbdns.html), the [second-most popular](http://en.wikipedia.org/wiki/Djbdns#cite_note-2) DNS server software on the Internet, is in the public domain.
 * [dlmalloc](http://g.oswego.edu/dl/html/malloc.html), a widely-used memory allocator implementation for C, is in the public domain.
+* [HLA](http://web.mac.com/randyhyde/HighLevelAsm/), a high-level assembler for the x86 architecture, is in the public domain.
 * [CMUCL](http://www.cons.org/cmucl/), a popular implementation of the [Common Lisp](http://lispers.org) programming language, is mostly in the public domain.
 * [SBCL](http://www.sbcl.org/), another popular Common Lisp implementation, is likewise mostly [in the public domain](http://www.sbcl.org/history.html).
 * [CLIPS](http://clipsrules.sourceforge.net/), a widely-used forward-chaining, rule-based inference engine, is in the public domain.
@@ -107,7 +108,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [Crypto++](http://www.cryptopp.com/), a cryptographic library for C++, is mostly in the public domain.
 * [MPICH2](http://www.mcs.anl.gov/research/projects/mpich2/), a high-performance implementation of the [MPI](http://en.wikipedia.org/wiki/Message_Passing_Interface) standard, is largely in the public domain.
 * [MinGW](http://www.mingw.org/)'s runtime, which provides POSIX compatibility for Windows, is [in the public domain](http://www.mingw.org/license).
-* [WPDCC](http://www.whoow.org/project/wpdcc/), a public domain C compiler, is in the public domain.
+* [WPDCC](http://www.whoow.org/project/wpdcc/), a C preprocessor and compiler implementation, is in the public domain.
 
 Other Popular Unlicenses
 ------------------------
