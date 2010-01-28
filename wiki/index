@@ -73,12 +73,12 @@ Unlicensed Free Software
 The following software projects have already adopted the Unlicense or a derivative thereof:
 
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
-* [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a daemon that reports AMQP messages via Growl.
-* [Markdoc](http://markdoc.org/), a lightweight Markdown-based wiki system.
-* [netscan](http://bitbucket.org/noname/netscan/), a set of low-level network utilities.
+* [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
+* [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
+* [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 * [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
-* [Prosper](http://prosper-lib.com/), a database abstraction layer for PHP 5.3.
+* [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
 * [RDF.rb](http://rdf.rubyforge.org/), a Ruby library for working with Resource Description Framework (RDF) data.
 * [Trinity](http://trinity.datagraph.org/), a Ruby web framework for publishing Linked Data.
 * [Tubras](http://code.google.com/p/tubras/), a C++/Lua game engine.
