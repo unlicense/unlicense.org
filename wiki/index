@@ -80,6 +80,7 @@ The following software projects have already adopted the Unlicense or a derivati
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 * [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
 * [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
+* [Rack::Throttle](http://datagraph.rubyforge.org/rack-throttle/), Rack middleware for rate-limiting incoming HTTP requests.
 * [RDF.rb](http://rdf.rubyforge.org/), a Ruby library for working with Resource Description Framework (RDF) data.
 * [Trinity](http://trinity.datagraph.org/), a Ruby web framework for publishing Linked Data.
 * [Tubras](http://code.google.com/p/tubras/), a C++/Lua game engine.
