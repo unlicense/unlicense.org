@@ -51,7 +51,7 @@ Unlicensing Contributions
 
 In order to ensure your project remains completely free and unencumbered by copyright, it is advisable that you ask any contributors to explicitly dedicate their code base contributions to the public domain.
 
-At minimum, you should ask them to accompany any non-trivial patches with a simple statement like the following:
+At minimum, you should ask them to accompany any [non-trivial](http://www.gnu.org/prep/maintain/maintain.html#Legally-Significant) patches with a simple statement like the following:
 
     :::text
     I dedicate any and all copyright interest in this software to the
