@@ -74,6 +74,7 @@ The following software projects have already adopted the Unlicense or a derivati
 
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [EagleClaw](http://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
+* [Fancypants](http://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
 * [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
 * [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
