@@ -78,6 +78,7 @@ The following software projects have already adopted the Unlicense or a derivati
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
 * [Habilis](http://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
 * [JSched](http://github.com/vladdu/jsched), a simple Java framework for coroutines.
+* [loopozorg](http://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
 * [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
 * [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
 * [Nuush](http://chr.tx0.org/nuush), a Bash-based command-line RSS feed reader.
