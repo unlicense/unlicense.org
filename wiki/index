@@ -86,6 +86,7 @@ The following software projects have already adopted the Unlicense or a derivati
 * [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
 * [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
 * [pyFaceGraph](http://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
+* [Qataki](http://github.com/chr/qataki), a command-line Identi.ca/StatusNet/Twitter client.
 * [Rack::Throttle](http://datagraph.rubyforge.org/rack-throttle/), Rack middleware for rate-limiting incoming HTTP requests.
 * [RDF.rb](http://rdf.rubyforge.org/), a Ruby library for working with Resource Description Framework (RDF) data.
 * [RDFgrid](http://rdfgrid.rubyforge.org/), a framework for map/reduce-based batch-processing of RDF data with Hadoop.
@@ -94,7 +95,7 @@ The following software projects have already adopted the Unlicense or a derivati
 * [Tubras](http://code.google.com/p/tubras/), a C++/Lua game engine.
 * [Tween-o-Matic](http://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
 * [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
-* [Spira](http://spira.rubyforge.org/), a Linked Data ORM mapper for Ruby.
+* [Spira](http://spira.rubyforge.org/), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
 
 If you would like your own project added to this list, [drop us a note](http://groups.google.com/group/unlicense) on the mailing list or [create a ticket](http://github.com/bendiken/unlicense.org/issues).
 
