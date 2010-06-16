@@ -73,6 +73,7 @@ Unlicensed Free Software
 The following software projects have already adopted the Unlicense or a derivative thereof:
 
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
+* [Dagny](http://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
 * [EagleClaw](http://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
 * [Fancypants](http://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
