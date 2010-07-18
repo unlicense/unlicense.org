@@ -80,6 +80,7 @@ The following software projects have already adopted the Unlicense or a derivati
 * [Fancypants](http://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
 * [Habilis](http://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
+* [Jibber](http://github.com/boblmartens/jibber), a small blogging engine built with Sinatra.
 * [JSched](http://github.com/vladdu/jsched), a simple Java framework for coroutines.
 * [loopozorg](http://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
 * [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
