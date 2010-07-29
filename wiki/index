@@ -9,7 +9,7 @@ The Unlicense is a template for disclaiming copyright interest in software you'v
 Why Use the Unlicense?
 ----------------------
 
-Because you have more important things to do than enriching lawyers or imposing petty restrictions on users of your code. How often have you passed up on utilizing a great software library just because its [open source](http://www.opensource.org/) license was not compatible with your own preferred [flavor](http://www.opensource.org/licenses/alphabetical) of open source? How many precious hours of your life have you spent deliberating how to license your software or worrying about licensing compatibility with other software? You will never get those hours back, but here's your chance to start cutting your losses. Life's too short, let's get back to coding.
+Because you have more important things to do than enriching lawyers or imposing petty restrictions on users of your code. How often have you passed up on utilizing and contributing to a great software library just because its [open source](http://www.opensource.org/) license was not compatible with your own preferred [flavor](http://www.opensource.org/licenses/alphabetical) of open source? How many precious hours of your life have you spent deliberating how to license your software or worrying about licensing compatibility with other software? You will never get those hours back, but here's your chance to start cutting your losses. Life's too short, let's get back to coding.
 
 The Unlicense
 -------------
@@ -44,7 +44,9 @@ To opt out of the copyright game altogether and set your code free, put your nex
 
 In a saner world, you would only need the first two paragraphs. For the time being you'll probably [want to retain](http://ar.to/2010/01/dissecting-the-unlicense) the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
 
-You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub](http://www.google.com/search?q=allinurl%3A%22UNLICENSE%22+site%3Agithub.com), [Bitbucket](http://www.google.com/search?q=allinurl%3A%22UNLICENSE%22+site%3Abitbucket.org) or [Google Code Search](http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24), enabling others to reuse your code in their own unencumbered public domain projects.
+You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][], [Bitbucket][] or [Google Code Search][], enabling others to reuse your code in their own unencumbered public domain projects.
+
+For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. It was purposely worded uniquely, which means all the returned search results will relate to the Unlicense in some way.
 
 Unlicensing Contributions
 -------------------------
@@ -72,7 +74,7 @@ For a concrete example of this contributor process, see [how the RDF.rb project 
 Unlicensed Free Software
 ------------------------
 
-The following software projects have already adopted the Unlicense or a derivative thereof:
+Here are some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [Dagny](http://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
@@ -102,6 +104,8 @@ The following software projects have already adopted the Unlicense or a derivati
 * [Spira](http://spira.rubyforge.org/), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
 
 If you would like your own project added to this list, [drop us a note](http://groups.google.com/group/unlicense) on the mailing list or [create a ticket](http://github.com/bendiken/unlicense.org/issues).
+
+For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search].
 
 Public Domain Software
 ----------------------
@@ -151,3 +155,12 @@ If setting your code entirely free still seems a somewhat daunting prospect, try
 * [Dissecting the Unlicense: Software Freedom in Four Clauses and a Link](http://ar.to/2010/01/dissecting-the-unlicense)
 * [Why I'm Going Public](http://blog.zacharyvoase.com/2010-01-04-why-im-going-public)
 * [The Promising Future of the Unlicense](http://bhuga.net/2010/01/promising-future-unlicense)
+
+[anti-copyright]:     http://en.wikipedia.org/wiki/Anti-copyright
+[Google Search]:      http://www.google.com/search?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22&filter=0
+[Google Code Search]: http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24
+[Google Code Search]: http://www.google.com/codesearch?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22
+[GitHub]:             http://www.google.com/search?q=allinurl%3A%22UNLICENSE%22+site%3Agithub.com
+[GitHub]:             http://www.google.com/search?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22+site:github.com&filter=0
+[Bitbucket]:          http://www.google.com/search?q=allinurl%3A%22UNLICENSE%22+site%3Abitbucket.org
+[Bitbucket]:          http://www.google.com/search?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22+site%3Abitbucket.org&filter=0
