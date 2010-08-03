@@ -82,6 +82,7 @@ Here are some of the software projects that have already adopted the Unlicense o
 * [Fancypants](http://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
 * [Habilis](http://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
+* [I2P.rb](http://cypherpunk.rubyforge.org/i2p/), a Ruby library for interacting with the [I2P](http://www.i2p2.de/) anonymity network.
 * [Jibber](http://github.com/boblmartens/jibber), a small blogging engine built with Sinatra.
 * [JSched](http://github.com/vladdu/jsched), a simple Java framework for coroutines.
 * [loopozorg](http://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
