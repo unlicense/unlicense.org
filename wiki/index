@@ -46,7 +46,7 @@ In a saner world, you would only need the first two paragraphs. For the time bei
 
 You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][], [Bitbucket][] or [Google Code Search][], enabling others to reuse your code in their own unencumbered public domain projects.
 
-For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. It was purposely worded uniquely, which means all the returned search results will relate to the Unlicense in some way.
+For a comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. It was purposely worded uniquely, which means that all the returned search results are likely to relate to the Unlicense in some way.
 
 Unlicensing Contributions
 -------------------------
@@ -69,12 +69,12 @@ Better yet is to ask the major contributors to [digitally sign](http://en.wikipe
 
 Note that if a contributor makes significant changes or enhancements in his capacity as an employee of some organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](http://www.sqlite.org/copyright.html). The Free Software Foundation also [provides an example](http://www.fsf.org/licensing/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
 
-For a concrete example of this contributor process, see [how the RDF.rb project has handled this](http://lists.w3.org/Archives/Public/public-rdf-ruby/2010May/0013.html).
+For a concrete example of this contributor process, see [how the unlicensed RDF.rb project has handled this](http://lists.w3.org/Archives/Public/public-rdf-ruby/2010May/0013.html).
 
 Unlicensed Free Software
 ------------------------
 
-Here are some of the software projects that have already adopted the Unlicense or a derivative thereof:
+Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [Dagny](http://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
@@ -108,9 +108,7 @@ Here are some of the software projects that have already adopted the Unlicense o
 
 If you would like your own project added to this list, [drop us a note](http://groups.google.com/group/unlicense) on the mailing list or [create a ticket](http://github.com/bendiken/unlicense.org/issues).
 
-For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search].
-
-See also [a list of authors](http://twitter.com/bendiken/unlicensed) who unlicense the software they write as a matter of course.
+For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. See also a [list of authors](http://twitter.com/bendiken/unlicensed) who unlicense the software they write as a matter of course.
 
 Public Domain Software
 ----------------------
