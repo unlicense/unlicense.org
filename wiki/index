@@ -84,6 +84,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Habilis](http://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
 * [HTML5 Boilerplate](http://html5boilerplate.com/), a rock-solid HTML5/CSS/JS template for creating fast, robust, and future-proof sites.
 * [I2P.rb](http://cypherpunk.rubyforge.org/i2p/), a Ruby library for interacting with the [I2P](http://www.i2p2.de/) anonymity network.
+* [JavaScript Object Graph](http://jsog.sourceforge.net/), a Java library designed to make working with JSON simple.
 * [Jibber](http://github.com/boblmartens/jibber), a small blogging engine built with Sinatra.
 * [JSched](http://github.com/vladdu/jsched), a simple Java framework for coroutines.
 * [loopozorg](http://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
