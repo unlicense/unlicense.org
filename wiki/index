@@ -91,6 +91,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
 * [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
 * [Nuush](http://chr.tx0.org/nuush), a Bash-based command-line RSS feed reader.
+* [OpenCoinage](http://opencoinage.org/), an open-source digital cash library.
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 * [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
 * [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
