@@ -76,7 +76,7 @@ Unlicensed Free Software
 
 Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
-* [Bitcoin.php](https://github.com/mikegogulski/bitcoin-php), a PHP library (and [WP e-Commerce](https://github.com/mikegogulski/bitcoin-wp-e-commerce), [UberCart](https://github.com/mikegogulski/uc_bitcoin), and [VirtueMart](https://github.com/mikegogulski/bitcoin-virtuemart) plugins) for the Bitcoin peer-to-peer digital currency system.
+* [Bitcoin.php](https://github.com/mikegogulski/bitcoin-php), a PHP library (and plugins for [WP e-Commerce](https://github.com/mikegogulski/bitcoin-wp-e-commerce), [UberCart](https://github.com/mikegogulski/uc_bitcoin), and [VirtueMart](https://github.com/mikegogulski/bitcoin-virtuemart)) for the [Bitcoin](http://bitcoin.org/) peer-to-peer digital currency system.
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [Dagny](http://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
 * [EagleClaw](http://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
