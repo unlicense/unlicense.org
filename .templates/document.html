@@ -1,14 +1,64 @@
 {% extends 'base.html' %}
 
-{% block crumbs %}
+{% block js %}
+<style type="text/css">
+  body {
+    width: 730px;
+    font-family: "Helvetica Neue",Helvetica,Arial,Geneva,sans-serif;
+    font-size: 10pt;
+  }
+  body #breadcrumbs, body #content, body #footer {
+    width: 700px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 1.2em 1.2em;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 1.6em;
+  }
+  h1 {
+    margin-top: 0.6em;
+  }
+  h2, h3, h4, h5, h6 {
+    margin-bottom: 0.4em;
+    margin-top: 1em;
+  }
+  code {
+    font-family: inherit;
+  }
+  pre, blockquote, table.codehilitetable {
+    font-size: 10pt;
+    background-color: #F6F6F6;
+    border-color: #999999 -moz-use-text-color;
+    border-style: solid none;
+    border-width: 1px medium;
+    display: block;
+    line-height: 1.5em;
+    margin-left: 1.2em;
+    margin-right: 1em;
+    padding: 0.5em 0.5em 0.5em 1em !important;
+  }
+  body #footer {
+    background-color: #F6F6F6;
+    text-align: center;
+  }
+</style>
+{% endblock %}
+
+{% block crumbs %}{% endblock %}
+
+{% block content_header %}
 <img alt="Say No to Copyright" title="Say No to Copyright" src="./pd-icon.png"
   align="right" width="50" height="50" border="0" style="margin: 5px 0px 0px 10px;"/>
 {% endblock %}
 
 {% block content %}{{ content }}{% endblock %}
 
-{% block footer %}
-      <p id="footer">
+{% block body_footer %}
+      <div id="footer">
         <a href="http://creativecommons.org/publicdomain/zero/1.0/">No rights reserved</a>.
         Powered by <a href="http://markdoc.org/">Markdoc</a>.
         Hosted by <a href="http://www.dreamhost.com/r.cgi?181700">Dreamhost</a>.

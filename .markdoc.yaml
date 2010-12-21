@@ -2,5 +2,5 @@ wiki-name: Unlicense.org
 wiki-dir: wiki
 document-extensions: []
 markdown:
-  extensions: [extra, codehilite, toc]
+  extensions: [extra, toc]
 google-analytics: UA-83574-16
