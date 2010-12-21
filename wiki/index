@@ -73,7 +73,7 @@ Unlicensed Free Software
 
 Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
-* [Bitcoin.php](http://github.com/mikegogulski/bitcoin-php), a PHP library (and plugins for [WP e-Commerce](http://github.com/mikegogulski/bitcoin-wp-e-commerce), [UberCart](http://github.com/mikegogulski/uc_bitcoin), and [VirtueMart](http://github.com/mikegogulski/bitcoin-virtuemart)) for the [Bitcoin](http://bitcoin.org/) peer-to-peer digital currency system.
+* [Bitcoin.php](http://github.com/mikegogulski/bitcoin-php), a PHP library (and plugins for [WP e-Commerce](http://github.com/mikegogulski/bitcoin-wp-e-commerce), [Ubercart](http://github.com/mikegogulski/uc_bitcoin), and [VirtueMart](http://github.com/mikegogulski/bitcoin-virtuemart)) for the [Bitcoin](http://bitcoin.org/) peer-to-peer digital currency system.
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [Dagny](http://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
 * [EagleClaw](http://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
@@ -112,8 +112,8 @@ Here follows a sample of some of the software projects that have already adopted
 * [Tween-o-Matic](http://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
 * [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
 * [Spira](http://spira.rubyforge.org/), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
-* [WordPress Citation Manager](http://wordpress.org/extend/plugins/citation-manager/), a WordPress plugin for managing external citations to content.
-* [WordPress Disable Registration Email](http://wordpress.org/extend/plugins/disable-registration-email/), a WordPress plugin for disabling post-registration e-mails to the administrator.
+* [WP Citation Manager](http://wordpress.org/extend/plugins/citation-manager/), a WordPress plugin for managing external citations to content.
+* [WP Disable Registration Email](http://wordpress.org/extend/plugins/disable-registration-email/), a WordPress plugin for disabling post-registration e-mails to the administrator.
 
 If you would like your own project added to this list, [drop us a note](http://groups.google.com/group/unlicense) on the mailing list or [create a ticket](http://github.com/bendiken/unlicense.org/issues).
 
