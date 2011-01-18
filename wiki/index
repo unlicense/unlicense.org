@@ -112,8 +112,9 @@ Here follows a sample of some of the software projects that have already adopted
 * [Tween-o-Matic](http://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
 * [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
 * [Spira](http://spira.rubyforge.org/), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
-* [Sudoku](https://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
+* [Sudoku](http://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
 * [UpTheAsset](http://uptheasset.org/), a semantic ontology and system for double-entry bookkeeping and accounting.
+* [weblayer](http://github.com/thruflo/weblayer), a lightweight, componentized Python package for writing web applications.
 * [WP Citation Manager](http://wordpress.org/extend/plugins/citation-manager/), a WordPress plugin for managing external citations to content.
 * [WP Disable Registration Email](http://wordpress.org/extend/plugins/disable-registration-email/), a WordPress plugin for disabling post-registration e-mails to the administrator.
 
