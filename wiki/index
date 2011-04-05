@@ -147,8 +147,8 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [MPICH2](http://www.mcs.anl.gov/research/projects/mpich2/), a high-performance implementation of the [MPI](http://en.wikipedia.org/wiki/Message_Passing_Interface) standard, is largely in the public domain.
 * [MinGW](http://www.mingw.org/)'s runtime, which provides POSIX compatibility for Windows, is [in the public domain](http://www.mingw.org/license).
 * [Phyz](http://phyz.ath.cx/), a soft body dynamics physics engine for Windows, is in the public domain.
-* [NBDS](http://code.google.com/p/nbds/), a C library implementing various lock-free algorithms (including a lock-free hash table), is in the public domain.
-* [Djehuty](http://github.com/wilkie/djehuty), a fully-verifiable operating system and API written in the D programming language, is in the public domain.
+* [NBDS](http://code.google.com/p/nbds/), a C library for various lock-free algorithms (including a lock-free hash table), is in the public domain.
+* [Djehuty](http://github.com/wilkie/djehuty), a fully-verifiable operating system written in the D programming language, is in the public domain.
 * [XOS](http://openxos.org/), a multitasking operating system for the x86 architecture, is in the public domain.
 * [snafu](http://home.swipnet.se/smaffy/snafu/), a small operating system written in assembly language, is in the public domain.
 * [PDCLib](http://pdclib.rootdirectory.de/), a minimal C standard library implementation, is in the public domain.
