@@ -90,6 +90,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [jQuery JSON-RPC](http://github.com/datagraph/jquery-jsonrpc), a JavaScript JSON-RPC library for jQuery.
 * [JSched](http://github.com/vladdu/jsched), a simple Java framework for coroutines.
 * [loopozorg](http://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
+* [Machinery](http://sourceforge.net/projects/machinery/), a C library for dynamic x86 and MIPS code generation.
 * [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
 * [MathIsFun2](http://github.com/saumya/MathIsFun2), a simple iPhone game.
 * [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
