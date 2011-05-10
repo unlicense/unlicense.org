@@ -118,6 +118,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [weblayer](http://github.com/thruflo/weblayer), a lightweight, componentized Python package for writing web applications.
 * [WP Citation Manager](http://wordpress.org/extend/plugins/citation-manager/), a WordPress plugin for managing external citations to content.
 * [WP Disable Registration Email](http://wordpress.org/extend/plugins/disable-registration-email/), a WordPress plugin for disabling post-registration e-mails to the administrator.
+* [ZF-Boilerplate](http://github.com/michael-romer/zf-boilerplate), a pre-packaged, pre-configured Zend Framework-based blueprint for enterprise-grade PHP applications.
 
 If you would like your own project added to this list, [drop us a note](http://groups.google.com/group/unlicense) on the mailing list or [create a ticket](http://github.com/bendiken/unlicense.org/issues).
 
