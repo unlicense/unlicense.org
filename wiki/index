@@ -100,6 +100,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 * [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
 * [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
+* [Pure CSS](http://github.com/sergeylukin) widgets, including a 3D bar graph, jigsaw puzzle piece, and others.
 * [pyFaceGraph](http://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
 * [Qataki](http://github.com/chr/qataki), a command-line Identi.ca/StatusNet/Twitter client.
 * [Rack::Throttle](http://datagraph.rubyforge.org/rack-throttle/), Rack middleware for rate-limiting incoming HTTP requests.
