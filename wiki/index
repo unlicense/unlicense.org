@@ -96,6 +96,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
 * [MathIsFun2](http://github.com/saumya/MathIsFun2), a simple iPhone game.
 * [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
+* [Nobox](http://github.com/serprex/nobox), a minimalist stacking window manager written in C using XCB.
 * [Nuush](http://chr.tx0.org/nuush), a Bash-based command-line RSS feed reader.
 * [OpenCoinage](http://opencoinage.org/), an open-source digital cash library.
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
