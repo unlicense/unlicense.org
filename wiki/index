@@ -74,6 +74,7 @@ Unlicensed Free Software
 Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
 * [Bitcoin.php](http://github.com/mikegogulski/bitcoin-php), a PHP library (and plugins for [WP e-Commerce](http://github.com/mikegogulski/bitcoin-wp-e-commerce), [Ubercart](http://github.com/mikegogulski/uc_bitcoin), and [VirtueMart](http://github.com/mikegogulski/bitcoin-virtuemart)) for the [Bitcoin](http://bitcoin.org/) peer-to-peer digital currency system.
+* [BitWasp](http://github.com/Bit-Wasp/BitWasp), a secure, anonymous marketplace integrated with the Bitcoin digital currency system.
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [Dagny](http://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
 * [Distance](http://github.com/awnist/distance), a CoffeeScript and JavaScript module for calculating Levenshtein/Sift3 distances between strings.
