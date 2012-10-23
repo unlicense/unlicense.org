@@ -103,6 +103,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
 * [Pondasee](http://github.com/tokokoo/pondasee), a frontend web developer starter kit using SCSS and Compass.
 * [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
+* [Proto](http://github.com/droptype/proto), a front-end web prototyping tool.
 * [Pure CSS](http://github.com/sergeylukin) widgets, including a 3D bar graph, jigsaw puzzle piece, and others.
 * [pyFaceGraph](http://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
 * [Qataki](http://github.com/chr/qataki), a command-line Identi.ca/StatusNet/Twitter client.
