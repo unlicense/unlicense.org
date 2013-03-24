@@ -43,7 +43,7 @@ To opt out of the copyright game altogether and set your code free, put your nex
 
 In a saner world, you would only need the first two paragraphs. For the time being you'll probably [want to retain](http://ar.to/2010/01/dissecting-the-unlicense) the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
 
-You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][], [Bitbucket][] or [Google Code Search][], enabling others to reuse your code in their own unencumbered public domain projects.
+You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][] or [Bitbucket][], enabling others to reuse your code in their own unencumbered public domain projects.
 
 For a comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. It was purposely worded uniquely, which means that all the returned search results are likely to relate to the Unlicense in some way.
 
@@ -193,8 +193,6 @@ If setting your code entirely free still seems a somewhat daunting prospect, try
 
 [anti-copyright]:     http://en.wikipedia.org/wiki/Anti-copyright
 [Google Search]:      http://www.google.com/search?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22&filter=0
-[Google Code Search]: http://www.google.com/codesearch?q=file:%5EUNLICENSE(%5C.txt)%3F%24
-[Google Code Search]: http://www.google.com/codesearch?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22
 [GitHub]:             http://www.google.com/search?q=allinurl%3A%22UNLICENSE%22+site%3Agithub.com
 [GitHub]:             http://www.google.com/search?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22+site:github.com&filter=0
 [Bitbucket]:          http://www.google.com/search?q=allinurl%3A%22UNLICENSE%22+site%3Abitbucket.org
