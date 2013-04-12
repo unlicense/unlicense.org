@@ -102,6 +102,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Nobox](http://github.com/serprex/nobox), a minimalist stacking window manager written in C using XCB.
 * [Nuush](http://chr.tx0.org/nuush), a Bash-based command-line RSS feed reader.
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
+* [pdiffer](http://pypi.python.org/pypi/pdiffer), a Python interface to the PerceptualDiff tool.
 * [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
 * [Pondasee](http://github.com/tokokoo/pondasee), a frontend web developer starter kit using SCSS and Compass.
 * [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
