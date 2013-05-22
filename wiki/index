@@ -168,6 +168,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [PDCLib](http://pdclib.rootdirectory.de/), a minimal C standard library implementation, is in the public domain.
 * [PDPCLIB](http://pdos.sourceforge.net/), another C standard library implementation, is in the public domain.
 * [PDOS](http://pdos.sourceforge.net/), a DOS-compatible operating system, is in the public domain.
+* [SubC](http://www.t3x.org/subc/), a fast and simple compiler for a clean subset of the C programming language, is in the public domain.
 * [WPDCC](http://www.cod5.org/archive/), a C preprocessor and compiler implementation, is in the public domain.
 * [c11threads.h](http://github.com/jtsiomb/c11threads), a simple C11 threads implementation based on POSIX threads, is in the public domain.
 
