@@ -168,6 +168,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [PDPCLIB](http://pdos.sourceforge.net/), another C standard library implementation, is in the public domain.
 * [PDOS](http://pdos.sourceforge.net/), a DOS-compatible operating system, is in the public domain.
 * [WPDCC](http://www.cod5.org/archive/), a C preprocessor and compiler implementation, is in the public domain.
+* [c11threads.h](https://github.com/jtsiomb/c11threads), a simple C11 threads implementation based on POSIX threads, is in the public domain.
 
 For other listings of public domain software, see [Whoow](http://www.whoow.org/public_domain/), [Wikipedia](http://en.wikipedia.org/wiki/Category:Public_domain_software), [SourceForge](https://sourceforge.net/softwaremap/?&fq%5B%5D=trove%3A197), [Freecode](https://freecode.com/tags/public-domain), [Ohloh](http://www.ohloh.net/p?sort=users&q=license%3APublic+Domain), [Google Code Hosting](http://code.google.com/hosting/search?q=%22public+domain%22), [Alioth](http://alioth.debian.org/softwaremap/trove_list.php?form_cat=197), [Savannah](http://www.google.com/search?q=site%3Asavannah.nongnu.org+%22public+domain%22), [Launchpad](https://launchpad.net/projects/+index?text=%22public+domain%22), [CodePlex](http://www.codeplex.com/site/search?projectSearchText=%22public%20domain%22), [RubyForge](http://rubyforge.org/softwaremap/trove_list.php?form_cat=197) and the [Python Cheeseshop](http://pypi.python.org/pypi?:action=browse&c=91).
 
