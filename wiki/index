@@ -102,6 +102,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [miniz.c](http://code.google.com/p/miniz/), a single-source-file, high-performance deflate/inflate compression library with a [zlib](http://zlib.net/)-compatible API.
 * [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
 * [Nobox](http://github.com/serprex/nobox), a minimalist stacking window manager written in C using XCB.
+* [node-rdf](http://npmjs.org/package/rdf), an ECMAScript/Node.js library for handling RDF data.
 * [Nuush](http://chr.tx0.org/nuush), a Bash-based command-line RSS feed reader.
 * [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 * [pdiffer](http://pypi.python.org/pypi/pdiffer), a Python interface to the PerceptualDiff tool.
