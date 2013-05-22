@@ -79,6 +79,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [Dagny](http://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
 * [Distance](http://github.com/awnist/distance), a CoffeeScript and JavaScript module for calculating Levenshtein/Sift3 distances between strings.
+* [Dux](http://github.com/abhibeckert/Dux), a simple code editor for Mac OS X.
 * [EagleClaw](http://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
 * [Fancypants](http://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
 * [fastFrag](http://github.com/gregory80/fastFrag), a simple JSON-based client-side JavaScript templating engine.
