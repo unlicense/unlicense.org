@@ -121,6 +121,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Tween-o-Matic](http://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
 * [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
 * [Spira](http://spira.rubyforge.org/), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
+* [stacktrace.js](http://stacktracejs.com/), a framework-agnostic JavaScript micro-library for getting stack traces in all web browsers.
 * [Sudoku](http://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
 * [UN](https://bitbucket.org/Eclesia/un/wiki/Home), aiming to write a public domain all-purpose standard library for Java.
 * [UpTheAsset](http://uptheasset.org/), a semantic ontology and system for double-entry bookkeeping and accounting.
