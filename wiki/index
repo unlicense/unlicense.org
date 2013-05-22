@@ -91,6 +91,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [JavaScript Object Graph](http://jsog.sourceforge.net/), a Java library designed to make working with JSON simple.
 * [jQuery JSON-RPC](http://github.com/datagraph/jquery-jsonrpc), a JavaScript JSON-RPC library for jQuery.
 * [JSched](http://github.com/vladdu/jsched), a simple Java framework for coroutines.
+* [Kakoune](http://github.com/mawww/kakoune), an experimental text editor heavily inspired by Vim.
 * [lein-cucumber](http://github.com/nilswloka/lein-cucumber), a simple Leiningen plugin for running Clojure-based Cucumber-JVM specifications.
 * [libcpr](http://github.com/bendiken/libcpr), a backport of the core data structures and algorithms from the C++11 standard library to C.
 * [loopozorg](http://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
