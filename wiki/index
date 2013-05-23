@@ -77,6 +77,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Bitcoin::OTC](http://github.com/bendiken/bitcoin-otc), a Ruby client for fetching ratings data from the `#bitcoin-otc` trading database.
 * [BitWasp](http://github.com/Bit-Wasp/BitWasp), a secure, anonymous marketplace integrated with the Bitcoin digital currency system.
 * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
+* [CSS3 Buttons](http://github.com/michenriksen/css3buttons), a simple CSS framework for creating good-looking GitHub style button links.
 * [Dagny](http://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
 * [Distance](http://github.com/awnist/distance), a CoffeeScript and JavaScript module for calculating Levenshtein/Sift3 distances between strings.
 * [Dux](http://github.com/abhibeckert/Dux), a simple code editor for Mac OS X.
