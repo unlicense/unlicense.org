@@ -122,6 +122,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
 * [MathIsFun2](http://github.com/saumya/MathIsFun2), a simple iPhone game.
 * [miniz.c](http://code.google.com/p/miniz/), a single-source-file, high-performance deflate/inflate compression library with a [zlib](http://zlib.net/)-compatible API.
+* [Nano](http://github.com/rwarasaurus/nano), a nano-sized PHP framework.
 * [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
 * [Nobox](http://github.com/serprex/nobox), a minimalist stacking window manager written in C using XCB.
 * [node-rdf](http://npmjs.org/package/rdf), an ECMAScript/Node.js library for handling RDF data.
