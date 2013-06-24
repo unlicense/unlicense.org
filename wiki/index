@@ -156,6 +156,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [WP Citation Manager](http://wordpress.org/extend/plugins/citation-manager/), a WordPress plugin for managing external citations to content.
 * [WP Disable Registration Email](http://wordpress.org/extend/plugins/disable-registration-email/), a WordPress plugin for disabling post-registration e-mails to the administrator.
 * [xo](http://github.com/sarnesjo/xo), a superoptimizer for generating optimal x86 assembly programs.
+* [youtube-dl](http://rg3.github.io/youtube-dl/), a command-line program for downloading videos from YouTube.
 * [ZF-Boilerplate](http://github.com/michael-romer/zf-boilerplate), a pre-packaged, pre-configured Zend Framework-based blueprint for enterprise-grade PHP applications.
 
 If you would like your own project added to this list, [drop us a note](http://groups.google.com/group/unlicense) on the mailing list or [create a ticket](http://github.com/unlicense/unlicense.org/issues).
