@@ -70,9 +70,11 @@ For a comprehensive listing of software using the Unlicense, [google for the fir
 Unlicensing Contributions
 -------------------------
 
-In order to ensure your project remains completely free and unencumbered by copyright, it is advisable that you ask any contributors to explicitly dedicate their code base contributions to the public domain.
+In order to ensure your project remains completely free and unencumbered by copyright, it is advisable that you ask any major contributors to explicitly dedicate their code-base contributions to the public domain.
 
-At minimum, you should ask them to accompany any [non-trivial](http://www.gnu.org/prep/maintain/maintain.html#Legally-Significant) patches with a simple statement like the following:
+This removes any possible ambiguity as to what terms somebody might have thought they were contributing under, in case of a future dispute. These concerns are not unique to public domain software. Most large, established open-source projects have a Contributor License Agreement ([CLA](http://en.wikipedia.org/wiki/Contributor_License_Agreement)) process, of varying degrees of formality.
+
+At minimum, you might ask your contributors to accompany any [non-trivial](http://www.gnu.org/prep/maintain/maintain.html#Legally-Significant) patches with a simple statement like the following:
 
     I dedicate any and all copyright interest in this software to the
     public domain. I make this dedication for the benefit of the public at
@@ -84,7 +86,7 @@ Better yet is to ask the major contributors to [digitally sign](http://en.wikipe
 
     $ gpg --no-version --armor --sign WAIVER
 
-Note that if a contributor makes significant changes or enhancements in his capacity as an employee of some organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](http://www.sqlite.org/copyright.html). The Free Software Foundation also [provides an example](http://www.fsf.org/licensing/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
+Note that if a contributor makes significant changes or enhancements in his capacity as an employee of some formal organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](http://www.sqlite.org/copyright.html). The Free Software Foundation (FSF) also [provides an example](http://www.fsf.org/licensing/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
 
 For a concrete example of this contributor process, see [how the unlicensed RDF.rb project has handled this](http://lists.w3.org/Archives/Public/public-rdf-ruby/2010May/0013.html).
 
