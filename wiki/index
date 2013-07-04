@@ -188,6 +188,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [Docutils](http://docutils.sourceforge.net/), the Python text-processing system, is mostly in the public domain.
 * [LibTomCrypt](http://libtom.org/?page=features&newsitems=5&whatfile=crypt), a portable cryptographic toolkit for C, is in the public domain.
 * [LibTomMath](http://libtom.org/?page=features&newsitems=5&whatfile=ltm), a portable number theoretic multiple-precision integer library for C, is in the public domain.
+* [C++ Big Integer Library](http://mattmccutchen.net/bigint/), a library for integer arithmetic, is in the public domain.
 * [PyCrypto](http://www.dlitz.net/software/pycrypto/), the Python cryptography toolkit, is largely in the public domain.
 * [Crypto++](http://www.cryptopp.com/), a cryptographic library for C++, is mostly in the public domain.
 * [MPICH2](http://www.mcs.anl.gov/research/projects/mpich2/), a high-performance implementation of the [MPI](http://en.wikipedia.org/wiki/Message_Passing_Interface) standard, is largely in the public domain.
