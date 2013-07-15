@@ -24,7 +24,7 @@ Unlicense Yourself: Set Your Code Free
 What is the Unlicense?
 ----------------------
 
-The Unlicense is a template for [disclaiming copyright interest](http://cr.yp.to/publicdomain.html) in software you've written; in other words, it is a template for dedicating your software to the [public domain](http://stpeter.im/writings/essays/publicdomain.html). It combines a copyright waiver [patterned](http://ar.to/2010/01/dissecting-the-unlicense) after the [very successful](http://www.sqlite.org/famous.html) public domain [SQLite](http://www.sqlite.org/) project with the no-warranty statement from the widely-used [MIT/X11 license](http://en.wikipedia.org/wiki/MIT_License).
+The Unlicense is a template for [disclaiming copyright monopoly interest](http://cr.yp.to/publicdomain.html) in software you've written; in other words, it is a template for dedicating your software to the [public domain](http://stpeter.im/writings/essays/publicdomain.html). It combines a copyright waiver [patterned](http://ar.to/2010/01/dissecting-the-unlicense) after the [very successful](http://www.sqlite.org/famous.html) public domain [SQLite](http://www.sqlite.org/) project with the no-warranty statement from the widely-used [MIT/X11 license](http://en.wikipedia.org/wiki/MIT_License).
 
 Why Use the Unlicense?
 ----------------------
@@ -34,7 +34,7 @@ Because you have more important things to do than enriching lawyers or imposing 
 The Unlicense
 -------------
 
-To opt out of the copyright game altogether and set your code free, put your next software project into the [public domain](http://stpeter.im/writings/essays/publicdomain.html) using the following (un)licensing statement:
+To opt out of the copyright industry's game altogether and set your code free, put your next software project into the [public domain](http://stpeter.im/writings/essays/publicdomain.html) using the following (un)licensing statement:
 
     This is free and unencumbered software released into the public domain.
     
@@ -70,7 +70,7 @@ For a comprehensive listing of software using the Unlicense, [google for the fir
 Unlicensing Contributions
 -------------------------
 
-In order to ensure your project remains completely free and unencumbered by copyright, it is advisable that you ask any major contributors to explicitly dedicate their code-base contributions to the public domain.
+In order to ensure your project remains completely free and unencumbered by anyone's copyright monopoly, it is advisable that you ask any major contributors to explicitly dedicate their code-base contributions to the public domain.
 
 This removes any possible ambiguity as to what terms somebody might have thought they were contributing under, in case of a future dispute. These concerns are not unique to public domain software. Most large, established open-source projects have a Contributor License Agreement ([CLA](http://en.wikipedia.org/wiki/Contributor_License_Agreement)) process, of varying degrees of formality.
 
