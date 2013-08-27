@@ -112,7 +112,6 @@ Here follows a sample of some of the software projects that have already adopted
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
 * [Habilis](http://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
 * [Have-a-Cookie](http://have-a-cookie.tumblr.com/), a Google Chrome extension for enhanced-privacy cookie management.
-* [HTML5 Boilerplate](http://html5boilerplate.com/), a rock-solid HTML5/CSS/JS template for creating fast, robust, and future-proof sites.
 * [I2P.rb](http://cypherpunk.rubyforge.org/i2p/), a Ruby library for interacting with the [I2P](http://www.i2p2.de/) anonymity network.
 * [JavaScript Object Graph](http://jsog.sourceforge.net/), a Java library designed to make working with JSON simple.
 * [jQuery JSON-RPC](http://github.com/datagraph/jquery-jsonrpc), a JavaScript JSON-RPC library for jQuery.
@@ -226,12 +225,13 @@ If setting your code entirely free still seems a somewhat daunting prospect, try
 
 * [Who's Afraid of the Public Domain?](http://stpeter.im/writings/essays/publicdomain.html)
 * [The Surprising History of Copyright and The Promise of a Post-Copyright World](http://questioncopyright.org/promise)
+* [What is Copyright?](https://stpeter.im/writings/essays/whatiscopyright.html)
 * [Placing Documents into the Public Domain](http://cr.yp.to/publicdomain.html)
 * [The Unlicense: The First Year in Review](http://ar.to/2011/01/unlicense-1st-year)
 * [Licensed, License-Free, and Unlicensed Code](http://ar.to/2010/12/licensing-and-unlicensing)
 * [Set Your Code Free](http://ar.to/2010/01/set-your-code-free)
 * [Dissecting the Unlicense: Software Freedom in Four Clauses and a Link](http://ar.to/2010/01/dissecting-the-unlicense)
-* [Why I'm Going Public](http://blog.zacharyvoase.com/2010-01-04-why-im-going-public)
+* [Why I'm Going Public](http://zacharyvoase.com/2010/01/04/unlicense/)
 * [The Promising Future of the Unlicense](http://bhuga.net/2010/01/promising-future-unlicense)
 * [To License or to Unlicense?](http://blog.verbose.nl/post/3680501466/to-license-or-to-unlicense)
 * [Language Matters: Framing The Copyright Monopoly So We Can Keep Our Liberties](http://torrentfreak.com/language-matters-framing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714/)
