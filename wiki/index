@@ -112,7 +112,6 @@ Here follows a sample of some of the software projects that have already adopted
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
 * [Habilis](http://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
 * [Have-a-Cookie](http://have-a-cookie.tumblr.com/), a Google Chrome extension for enhanced-privacy cookie management.
-* [HTML5 Boilerplate](http://html5boilerplate.com/), a rock-solid HTML5/CSS/JS template for creating fast, robust, and future-proof sites.
 * [I2P.rb](http://cypherpunk.rubyforge.org/i2p/), a Ruby library for interacting with the [I2P](http://www.i2p2.de/) anonymity network.
 * [JavaScript Object Graph](http://jsog.sourceforge.net/), a Java library designed to make working with JSON simple.
 * [jQuery JSON-RPC](http://github.com/datagraph/jquery-jsonrpc), a JavaScript JSON-RPC library for jQuery.
