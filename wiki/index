@@ -118,7 +118,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [JSched](http://github.com/vladdu/jsched), a simple Java framework for coroutines.
 * [Kakoune](http://github.com/mawww/kakoune), an experimental text editor heavily inspired by Vim.
 * [lein-cucumber](http://github.com/nilswloka/lein-cucumber), a simple Leiningen plugin for running Clojure-based Cucumber-JVM specifications.
-* [libcpr](http://github.com/unlicensed/libcpr), a backport of the core data structures and algorithms from the C++11 standard library to C.
+* [libcpr](http://github.com/dryproject/libcpr), a backport of the core data structures and algorithms from the C++11 standard library to C.
 * [loopozorg](http://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
 * [Mailr](http://mailr.org/), a Ruby on Rails-based webmail application.
 * [Machinery](http://sourceforge.net/projects/machinery/), a C library for dynamic x86 and MIPS code generation.
