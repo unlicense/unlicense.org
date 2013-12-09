@@ -104,6 +104,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Distance](http://github.com/awnist/distance), a CoffeeScript and JavaScript module for calculating Levenshtein/Sift3 distances between strings.
 * [Dux](http://github.com/abhibeckert/Dux), a simple code editor for Mac OS X.
 * [EagleClaw](http://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
+* [Epoch](http://universe2.us/epoch.html), a lightweight init daemon for Linux systems.
 * [Fancypants](http://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
 * [fastFrag](http://github.com/gregory80/fastFrag), a simple JSON-based client-side JavaScript templating engine.
 * [ficly, writes like](http://chrome.google.com/extensions/detail/hmgkocbacnpdfoklnggcjjipnicfnklf/), a Google Chrome extension for analyzing ficly.com stories using the iwl.me service.
