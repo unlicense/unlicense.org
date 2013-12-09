@@ -149,6 +149,8 @@ Here follows a sample of some of the software projects that have already adopted
 * [RDF.rb](http://rdf.rubyforge.org/), a Ruby library for working with Resource Description Framework (RDF) data.
 * [RDFI.js](http://github.com/webr3/rdf-interfaces), a JavaScript implementation of the core [RDF Interfaces Specification](http://www.w3.org/2010/02/rdfa/sources/rdf-interfaces/).
 * [RSA.rb](http://rsa.rubyforge.org/), a Ruby implementation of the RSA encryption algorithm and the PKCS#1 cryptography standard.
+* [tkpip](http://github.com/lishnih/tkpip), a tool for installing and managing Python packages based on Tk.
+* [tkrequest](http://github.com/lishnih/tkrequest), a tool for sending and receiving HTTP requests based on Tk.
 * [Tor.rb](http://cypherpunk.rubyforge.org/tor/), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
 * [Tubras](http://code.google.com/p/tubras/), a C++/Lua game engine.
 * [Tween-o-Matic](http://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
