@@ -111,7 +111,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [FlexNav](http://jasonweaver.name/lab/flexiblenavigation/), a jQuery plugin for responsive menus, enabling a device-agnostic approach to complex site navigation.
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
 * [Habilis](http://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
-* [Hatetepe](http://github.com/lgierth/hatetepe), a Ruby toolkit for building HTTP clients and servers.
+* [HTTPkit](http://github.com/lgierth/httpkit), a Ruby toolkit for building HTTP clients and servers.
 * [Have-a-Cookie](http://have-a-cookie.tumblr.com/), a Google Chrome extension for enhanced-privacy cookie management.
 * [I2P.rb](http://cypherpunk.rubyforge.org/i2p/), a Ruby library for interacting with the [I2P](http://www.i2p2.de/) anonymity network.
 * [JavaScript Object Graph](http://jsog.sourceforge.net/), a Java library designed to make working with JSON simple.
