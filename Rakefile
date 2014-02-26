@@ -21,5 +21,10 @@ task :serve do
 end
 
 task :upload => :build do
-  sh "rsync -azv .html/ unlicense.org:sites/unlicense.org/"
+  current_branch = `git branch 2>/dev/null | awk '/^\* /{print $2}'`
+  sh "git checkout gh-pages"
+  sh "cp -R .html/.* ."
+  sh "git add ."
+  sh "git commit -m 'P U B L I S H'"
+  sh "git checkout #{current_branch}"
 end
