@@ -182,6 +182,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [qmail](http://www.qmail.org/), the [second-most popular](http://www.qmail.org/top.html) MTA on the Internet, is [in the public domain](http://cr.yp.to/qmail/dist.html).
 * [djbdns](http://cr.yp.to/djbdns.html), the [second-most popular](http://en.wikipedia.org/wiki/Djbdns#cite_note-2) DNS server software on the Internet, is in the public domain.
 * [libdjb](http://www.fefe.de/djb/), a project aiming to make the excellent libraries from Dan Bernstein available to a wider public by extracting them from his packages and providing a minimal Makefile for each library.
+* [NaCl](http://nacl.cr.yp.to/), an easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc., [is in the public domain](http://nacl.cr.yp.to/features.html).
 * [BLAST](http://en.wikipedia.org/wiki/BLAST), one of the most widely used bioinformatics programs, is in the public domain.
 * [dlmalloc](http://g.oswego.edu/dl/html/malloc.html), a widely-used memory allocator implementation for C, is in the public domain.
 * [I2P](http://www.i2p2.de/), an anonymous overlay network implementation, is largely [in the public domain](http://www.i2p2.de/licenses.html).
