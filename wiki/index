@@ -17,7 +17,7 @@ Unlicense Yourself: Set Your Code Free
 <g:plusone href="http://unlicense.org/" size="medium" annotation="bubble"></g:plusone>
 </span>
 <span id="tumblr-follow-button">
-<iframe class="btn" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="25" width="115" src="http://platform.tumblr.com/v1/follow_button.html?button_type=2&tumblelog=unlicense&color_scheme=dark"></iframe>
+<iframe class="btn" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="25" width="115" src="https://platform.tumblr.com/v1/follow_button.html?button_type=2&tumblelog=unlicense&color_scheme=dark"></iframe>
 </span>
 </div>
 
