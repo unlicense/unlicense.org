@@ -125,7 +125,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [loopozorg](https://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
 * [Mailr](http://mailr.org/), a Ruby on Rails-based webmail application.
 * [Machinery](http://sourceforge.net/projects/machinery/), a C library for dynamic x86 and MIPS code generation.
-* [Markdoc](http://markdoc.org/), a Python-based lightweight Markdown-based wiki system.
+* [Markdoc](https://github.com/zacharyvoase/markdoc), a Python-based lightweight Markdown-based wiki system.
 * [MathIsFun2](https://github.com/saumya/MathIsFun2), a simple iPhone game.
 * [miniz.c](http://code.google.com/p/miniz/), a single-source-file, high-performance deflate/inflate compression library with a [zlib](http://zlib.net/)-compatible API.
 * [Nano](https://github.com/rwarasaurus/nano), a nano-sized PHP framework.

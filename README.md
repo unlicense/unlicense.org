@@ -1,6 +1,7 @@
 Unlicense.org
 =============
 
-This is the [Markdoc](http://markdoc.org/) repository for [Unlicense.org](https://unlicense.org/).
+This is the [Markdoc](https://github.com/zacharyvoase/markdoc) repository
+for [Unlicense.org](https://unlicense.org/).
 
-All material in this repository is in the public domain.
+All material in this repository is itself in the public domain.
