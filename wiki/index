@@ -171,7 +171,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [youtube-dl](http://rg3.github.io/youtube-dl/), a command-line program for downloading videos from YouTube.
 * [ZF-Boilerplate](https://github.com/michael-romer/zf-boilerplate), a pre-packaged, pre-configured Zend Framework-based blueprint for enterprise-grade PHP applications.
 
-If you would like your own project added to this list, please [create a ticket](https://github.com/unlicense/unlicense.org/issues?state=closed) or [drop us a note](http://groups.google.com/group/unlicense) on the mailing list.
+If you would like your own project added to this list, please [create a pull request](https://github.com/unlicense/unencumbered-software/pulls?q=is%3Apr+is%3Aclosed) on the [Registry of Unencumbered Software Projects](https://github.com/unlicense/unencumbered-software), tweet an addition request to [@TheUnlicense](https://twitter.com/theunlicense) on Twitter, or [drop us a note](http://groups.google.com/group/unlicense) on the mailing list.
 
 For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. See also a [list of authors](http://twitter.com/theunlicense/developers) who unlicense the software they write as a matter of course.
 
