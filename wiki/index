@@ -1,26 +1,6 @@
 Unlicense Yourself: Set Your Code Free
 ======================================
 
-<div id="buttons">
-<span id="twitter-follow-button">
-<a href="https://twitter.com/theunlicense" class="twitter-follow-button" data-show-count="false">Follow @theunlicense</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</span>
-<span id="twitter-tweet-button">
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://unlicense.org/" data-via="theunlicense">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</span>
-<span id="facebook-like-button">
-<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Funlicense.org%2F&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=144905262363906" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
-</span>
-<span id="google-plus-button">
-<g:plusone href="http://unlicense.org/" size="medium" annotation="bubble"></g:plusone>
-</span>
-<span id="tumblr-follow-button">
-<iframe class="btn" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="25" width="115" src="https://platform.tumblr.com/v1/follow_button.html?button_type=2&tumblelog=unlicense&color_scheme=dark"></iframe>
-</span>
-</div>
-
 What is the Unlicense?
 ----------------------
 
