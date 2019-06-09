@@ -153,7 +153,7 @@ Here follows a sample of some of the software projects that have already adopted
 
 If you would like your own project added to this list, please [create a pull request](https://github.com/unlicense/unencumbered-software/pulls?q=is%3Apr+is%3Aclosed) on the [Registry of Unencumbered Software Projects](https://github.com/unlicense/unencumbered-software), tweet an addition request to [@TheUnlicense](https://twitter.com/theunlicense) on Twitter, or [drop us a note](http://groups.google.com/group/unlicense) on the mailing list.
 
-For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. See also a [list of authors](http://twitter.com/theunlicense/developers) who unlicense the software they write as a matter of course.
+For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. See also a [list of authors](https://twitter.com/theunlicense/lists/developers/members) who unlicense the software they write as a matter of course.
 
 Public Domain Software
 ----------------------
