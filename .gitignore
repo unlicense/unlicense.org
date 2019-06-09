@@ -1,11 +1,2 @@
 # macOS
 .DS_Store
-
-# Editor backup files
-*~
-
-# rst2html outputs
-*.html
-
-# Markdoc outputs
-.html
