@@ -12,7 +12,7 @@ install:
 
 script:
   - ./build.sh
-  - markdown-link-check ./README.md
+  - markdown-link-check ./README.md -q -v
   - codespell -q4 *.md
 
 deploy:
