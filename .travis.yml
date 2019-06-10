@@ -8,14 +8,11 @@ before_install:
   - wget https://github.com/jgm/pandoc/releases/download/2.7.2/pandoc-2.7.2-1-amd64.deb && sudo dpkg -i pandoc-2.7.2-1-amd64.deb
 
 install:
-  - sudo apt-get install -y npm nodejs-legacy
-  - sudo npm install -g markdown-link-check
   - sudo apt-get install -y python-pip
   - sudo pip install codespell
 
 script:
   - ./build.sh
-  - markdown-link-check ./README.md -q -v
   - codespell -q4 *.md
   - docker run -ti --rm -v $PWD:/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --skip-save-results `find . -name "*.md"`
 
