@@ -78,23 +78,18 @@ Here follows a sample of some of the software projects that have already adopted
 * [Bitcoin.php](https://github.com/mikegogulski/bitcoin-php), a PHP library (and plugins for [WP e-Commerce](https://github.com/mikegogulski/bitcoin-wp-e-commerce), [Ubercart](https://github.com/mikegogulski/uc_bitcoin), and [VirtueMart](https://github.com/mikegogulski/bitcoin-virtuemart)) for the [Bitcoin](http://bitcoin.org/) peer-to-peer digital currency system.
 * [Bitcoin::OTC](https://github.com/bendiken/bitcoin-otc), a Ruby client for fetching ratings data from the `#bitcoin-otc` trading database.
 * [BitWasp](https://github.com/Bit-Wasp/BitWasp), Open Source Bitcoin Marketplace Software
-* [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
+* [CRM114.rb](https://rubygems.org/gems/crm114), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 * [CryptLib](https://github.com/WaterJuice/CryptLib), a cryptographic library for C that implements the MD5, SHA-1, SHA-2, and RC4 algorithms.
 * [CSS3 Buttons](https://github.com/michenriksen/css3buttons), a simple CSS framework for creating good-looking GitHub style button links.
 * [Dagny](https://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
 * [Distance](https://github.com/awnist/distance), a CoffeeScript and JavaScript module for calculating Levenshtein/Sift3 distances between strings.
-* [Dux](https://github.com/abhibeckert/Dux), a simple code editor for Mac OS X.
-* [EagleClaw](https://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
 * [Epoch](http://universe2.us/epoch.html), a lightweight init daemon for Linux systems.
 * [Fancypants](https://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
 * [fastFrag](https://github.com/gregory80/fastFrag), a simple JSON-based client-side JavaScript templating engine.
-* [ficly, writes like](http://chrome.google.com/extensions/detail/hmgkocbacnpdfoklnggcjjipnicfnklf/), a Google Chrome extension for analyzing ficly.com stories using the iwl.me service.
-* [FlexNav](http://jasonweaver.name/lab/flexiblenavigation/), a jQuery plugin for responsive menus, enabling a device-agnostic approach to complex site navigation.
 * [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
-* [Habilis](https://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
 * [HTTPkit](https://github.com/lgierth/httpkit), a Ruby toolkit for building HTTP clients and servers.
 * [Have-a-Cookie](http://have-a-cookie.tumblr.com/), a Google Chrome extension for enhanced-privacy cookie management.
-* [I2P.rb](http://cypherpunk.rubyforge.org/i2p/), a Ruby library for interacting with the [I2P](http://www.i2p2.de/) anonymity network.
+* [I2P.rb](https://rubygems.org/gems/i2p), a Ruby library for interacting with the [I2P](http://www.i2p2.de/) anonymity network.
 * [JavaScript Object Graph](http://jsog.sourceforge.net/), a Java library designed to make working with JSON simple.
 * [jQuery JSON-RPC](https://github.com/datagraph/jquery-jsonrpc), a JavaScript JSON-RPC library for jQuery.
 * [JSched](https://github.com/vladdu/jsched), a simple Java framework for coroutines.
@@ -110,16 +105,13 @@ Here follows a sample of some of the software projects that have already adopted
 * [miniz.c](http://code.google.com/p/miniz/), a single-source-file, high-performance deflate/inflate compression library with a [zlib](http://zlib.net/)-compatible API.
 * [Nano](https://github.com/rwarasaurus/nano), a nano-sized PHP framework.
 * [Nightweb](http://nightweb.net), an anonymous P2P social network for Android smartphones and PCs.
-* [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
 * [Nobox](https://github.com/serprex/nobox), a minimalist stacking window manager written in C using XCB.
 * [node-rdf](http://npmjs.org/package/rdf), an ECMAScript/Node.js library for handling RDF data.
 * [Nuush](http://chr.tx0.org/nuush), a Bash-based command-line RSS feed reader.
-* [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
+* [OpenPGP.rb](https://rubygems.org/gems/openpgp), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
 * [OTRXMPPChannel](https://github.com/mikegogulski/python-otrxmppchannel), An OTR-XMPP communication channel for Python
 * [OTRXMPPLogger](https://github.com/mikegogulski/python-otrxmpplogger), Logging over OTR and XMPP in Python
 * [pdiffer](http://pypi.python.org/pypi/pdiffer), a Python interface to the PerceptualDiff tool.
-* [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
-* [PicoSpeaker](http://picospeaker.tk/), an interface to the SVOX Pico text-to-speech system.
 * [Pondasee](https://github.com/tokokoo/pondasee), a frontend web developer starter kit using SCSS and Compass.
 * [Poolboy](https://github.com/devinus/poolboy), a hunky Erlang worker pool factory.
 * [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
@@ -128,20 +120,19 @@ Here follows a sample of some of the software projects that have already adopted
 * [Puzzle Code](https://github.com/mikegagnon/puzzlecode), a game that teaches computer programming just by playing the game.
 * [pyFaceGraph](https://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
 * [Qataki](https://github.com/chr/qataki), a command-line Identi.ca/StatusNet/Twitter client.
-* [Rack::Throttle](http://datagraph.rubyforge.org/rack-throttle/), Rack middleware for rate-limiting incoming HTTP requests.
-* [RDF.rb](http://rdf.rubyforge.org/), a Ruby library for working with Resource Description Framework (RDF) data.
+* [Rack::Throttle](https://rubygems.org/gems/rack-throttle), Rack middleware for rate-limiting incoming HTTP requests.
+* [RDF.rb](https://rubygems.org/gems/rdf), a Ruby library for working with Resource Description Framework (RDF) data.
 * [RDFI.js](https://github.com/webr3/rdf-interfaces), a JavaScript implementation of the core [RDF Interfaces Specification](http://www.w3.org/2010/02/rdfa/sources/rdf-interfaces/).
-* [RSA.rb](http://rsa.rubyforge.org/), a Ruby implementation of the RSA encryption algorithm and the PKCS#1 cryptography standard.
+* [RSA.rb](https://rubygems.org/gems/rsa), a Ruby implementation of the RSA encryption algorithm and the PKCS#1 cryptography standard.
 * [tkpip](https://github.com/lishnih/tkpip), a tool for installing and managing Python packages based on Tk.
 * [tkrequest](https://github.com/lishnih/tkrequest), a tool for sending and receiving HTTP requests based on Tk.
-* [Tor.rb](http://cypherpunk.rubyforge.org/tor/), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
+* [Tor.rb](https://rubygems.org/gems/tor), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
 * [Tubras](http://code.google.com/p/tubras/), a C++/Lua game engine.
 * [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
 * [Sidenote](https://github.com/mikegagnon/sidenote), a new document format optimized for reading & writing skimmable documents.
-* [Spira](http://spira.rubyforge.org/), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
-* [stacktrace.js](http://stacktracejs.com/), a framework-agnostic JavaScript micro-library for getting stack traces in all web browsers.
+* [Spira](https://rubygems.org/gems/spira), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
 * [Sudoku](https://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
-* [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
+* [SXP](https://rubygems.org/gems/sxp), a data interchange format based on S-expressions.
 * [UN](http://unlicense.developpez.com/), aiming to write a public domain all-purpose standard library for Java.
 * [UpTheAsset](http://uptheasset.org/), a semantic ontology and system for double-entry bookkeeping and accounting.
 * [weblayer](https://github.com/thruflo/weblayer), a lightweight, componentized Python package for writing web applications.
@@ -160,7 +151,7 @@ Public Domain Software
 
 Some examples of well-known public domain or [license-free](http://en.wikipedia.org/wiki/License-free_software) software libraries and applications:
 
-* [CERN httpd](http://en.wikipedia.org/wiki/CERN_httpd), the original World Wide Web daemon developed by Tim Berners-Lee, was [in the public domain](http://tenyears-www.web.cern.ch/tenyears-www/Welcome.html).
+* [CERN httpd](http://en.wikipedia.org/wiki/CERN_httpd), the original World Wide Web daemon developed by Tim Berners-Lee, was in the public domain.
 * [SQLite](http://www.sqlite.org/), the [most widely-deployed](http://www.sqlite.org/mostdeployed.html) SQL database in the world, is [in the public domain](http://www.sqlite.org/copyright.html).
 * [qmail](http://www.qmail.org/), the [second-most popular](http://www.qmail.org/top.html) MTA on the Internet, is [in the public domain](http://cr.yp.to/qmail/dist.html).
 * [djbdns](http://cr.yp.to/djbdns.html), the [second-most popular](http://en.wikipedia.org/wiki/Djbdns#cite_note-2) DNS server software on the Internet, is in the public domain.
@@ -169,16 +160,13 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [BLAST](http://en.wikipedia.org/wiki/BLAST), one of the most widely used bioinformatics programs, is in the public domain.
 * [dlmalloc](http://g.oswego.edu/dl/html/malloc.html), a widely-used memory allocator implementation for C, is in the public domain.
 * [I2P](http://www.i2p2.de/), an anonymous overlay network implementation, is largely [in the public domain](http://www.i2p2.de/licenses.html).
-* [HLA](http://web.mac.com/randyhyde/HighLevelAsm/), a high-level assembler for the x86 architecture, is in the public domain.
-* [CMUCL](http://www.cons.org/cmucl/), a popular implementation of the [Common Lisp](http://lispers.org) programming language, is mostly in the public domain.
+* [CMUCL](http://www.cons.org/cmucl/), a popular implementation of the [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp) programming language, is mostly in the public domain.
 * [SBCL](http://www.sbcl.org/), another popular Common Lisp implementation, is likewise mostly [in the public domain](http://www.sbcl.org/history.html).
 * [CLIPS](http://clipsrules.sourceforge.net/), a widely-used forward-chaining, rule-based inference engine, is in the public domain.
 * [byacc](http://invisible-island.net/byacc/byacc.html), the Berkeley [Yacc](http://en.wikipedia.org/wiki/Yacc) parser generator, is in the public domain.
 * [Lemon](http://www.hwaci.com/sw/lemon/), a thread-safe LALR(1) parser generator, is in the public domain.
 * [re2c](http://re2c.org/), a high-performance lexer generator, is in the public domain.
 * [Docutils](http://docutils.sourceforge.net/), the Python text-processing system, is mostly in the public domain.
-* [LibTomCrypt](http://libtom.org/?page=features&newsitems=5&whatfile=crypt), a portable cryptographic toolkit for C, is in the public domain.
-* [LibTomMath](http://libtom.org/?page=features&newsitems=5&whatfile=ltm), a portable number theoretic multiple-precision integer library for C, is in the public domain.
 * [C++ Big Integer Library](http://mattmccutchen.net/bigint/), a library for integer arithmetic, is in the public domain.
 * [PyCrypto](http://www.dlitz.net/software/pycrypto/), the Python cryptography toolkit, is largely in the public domain.
 * [Crypto++](http://www.cryptopp.com/), a cryptographic library for C++, is mostly in the public domain.
@@ -188,16 +176,14 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 * [NBDS](http://code.google.com/p/nbds/), a C library for various lock-free algorithms (including a lock-free hash table), is in the public domain.
 * [Djehuty](https://github.com/wilkie/djehuty), a fully-verifiable operating system written in the D programming language, is in the public domain.
 * [XOS](http://openxos.org/), a multitasking operating system for the x86 architecture, is in the public domain.
-* [snafu](http://home.swipnet.se/smaffy/snafu/), a small operating system written in assembly language, is in the public domain.
 * [PDCLib](http://pdclib.rootdirectory.de/), a minimal C standard library implementation, is in the public domain.
 * [PDPCLIB](http://pdos.sourceforge.net/), another C standard library implementation, is in the public domain.
 * [PDOS](http://pdos.sourceforge.net/), a DOS-compatible operating system, is in the public domain.
 * [SubC](http://www.t3x.org/subc/), a fast and simple compiler for a clean subset of the C programming language, is in the public domain.
-* [WPDCC](http://www.cod5.org/archive/), a C preprocessor and compiler implementation, is in the public domain.
 * [c11threads.h](https://github.com/jtsiomb/c11threads), a simple C11 threads implementation based on POSIX threads, is in the public domain.
 * [mpkg](http://charon.persephoneslair.org/~andrea/software/mpkg/), a minimalist package manager for *nix systems, is in the public domain.
 
-For other listings of public domain software, see [Whoow](http://www.whoow.org/public_domain/), [Wikipedia](http://en.wikipedia.org/wiki/Category:Public_domain_software), [SourceForge](https://sourceforge.net/softwaremap/?&fq%5B%5D=trove%3A197), [Freecode](https://freecode.com/tags/public-domain), [Ohloh](http://www.ohloh.net/p?sort=users&q=license%3APublic+Domain), [Google Code Hosting](http://code.google.com/hosting/search?q=%22public+domain%22), [Alioth](http://alioth.debian.org/softwaremap/trove_list.php?form_cat=197), [Savannah](http://www.google.com/search?q=site%3Asavannah.nongnu.org+%22public+domain%22), [Launchpad](https://launchpad.net/projects/+index?text=%22public+domain%22), [CodePlex](http://www.codeplex.com/site/search?projectSearchText=%22public%20domain%22), [RubyForge](http://rubyforge.org/softwaremap/trove_list.php?form_cat=197) and the [Python Cheeseshop](http://pypi.python.org/pypi?:action=browse&c=91).
+For other listings of public domain software, see [Wikipedia](http://en.wikipedia.org/wiki/Category:Public_domain_software), [Google Code Hosting](http://code.google.com/hosting/search?q=%22public+domain%22), [Savannah](http://www.google.com/search?q=site%3Asavannah.nongnu.org+%22public+domain%22), [Launchpad](https://launchpad.net/projects/+index?text=%22public+domain%22), [CodePlex](http://www.codeplex.com/site/search?projectSearchText=%22public%20domain%22) and the [Python Cheeseshop](http://pypi.python.org/pypi?:action=browse&c=91).
 
 Other Popular Unlicenses
 ------------------------
@@ -221,10 +207,8 @@ If setting your code entirely free still seems a somewhat daunting prospect, try
 * [Licensed, License-Free, and Unlicensed Code](http://ar.to/2010/12/licensing-and-unlicensing)
 * [Set Your Code Free](http://ar.to/2010/01/set-your-code-free)
 * [Dissecting the Unlicense: Software Freedom in Four Clauses and a Link](http://ar.to/2010/01/dissecting-the-unlicense)
-* [Why I'm Going Public](http://zacharyvoase.com/2010/01/04/unlicense/)
+* [Why I'm Going Public](https://zacharyvoase.com/2010/01/04/unlicense/)
 * [I Just Unlicensed My Software](http://mikegagnon.com/2013/09/30/i-just-unlicensed-my-software/)
-* [The Promising Future of the Unlicense](http://bhuga.net/2010/01/promising-future-unlicense)
-* [To License or to Unlicense?](http://blog.verbose.nl/post/3680501466/to-license-or-to-unlicense)
 * [Language Matters: Framing The Copyright Monopoly So We Can Keep Our Liberties](http://torrentfreak.com/language-matters-framing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714/)
 
 [anti-copyright]:     http://en.wikipedia.org/wiki/Anti-copyright
