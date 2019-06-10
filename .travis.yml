@@ -1,5 +1,8 @@
 language: minimal
 
+services:
+  - docker
+
 before_install:
   - sudo apt-get update -qq
   - wget https://github.com/jgm/pandoc/releases/download/2.7.2/pandoc-2.7.2-1-amd64.deb && sudo dpkg -i pandoc-2.7.2-1-amd64.deb
@@ -14,6 +17,7 @@ script:
   - ./build.sh
   - markdown-link-check ./README.md -q -v
   - codespell -q4 *.md
+  - docker run -ti --rm -v $PWD:/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --skip-save-results `find . -name "*.md"`
 
 deploy:
   provider: pages
