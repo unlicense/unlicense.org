@@ -86,7 +86,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Epoch](https://universe2.us/epoch.html), a lightweight init daemon for Linux systems.
 * [Fancypants](https://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
 * [fastFrag](https://github.com/gregory80/fastFrag), a simple JSON-based client-side JavaScript templating engine.
-* [GrowlAMQP](https://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
+* [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
 * [HTTPkit](https://github.com/lgierth/httpkit), a Ruby toolkit for building HTTP clients and servers.
 * [Have-a-Cookie](https://have-a-cookie.tumblr.com/), a Google Chrome extension for enhanced-privacy cookie management.
 * [I2P.rb](https://rubygems.org/gems/i2p), a Ruby library for interacting with the [I2P](https://www.i2p2.de/) anonymity network.
@@ -98,7 +98,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [lein-cucumber](https://github.com/nilswloka/lein-cucumber), a simple Leiningen plugin for running Clojure-based Cucumber-JVM specifications.
 * [libcpr](https://github.com/dryproject/libcpr), a backport of the core data structures and algorithms from the C++11 standard library to C.
 * [loopozorg](https://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
-* [Mailr](https://mailr.org/), a Ruby on Rails-based webmail application.
+* [Mailr](http://mailr.org/), a Ruby on Rails-based webmail application.
 * [Machinery](https://sourceforge.net/projects/machinery/), a C library for dynamic x86 and MIPS code generation.
 * [Markdoc](https://github.com/zacharyvoase/markdoc), a Python-based lightweight Markdown-based wiki system.
 * [MathIsFun2](https://github.com/saumya/MathIsFun2), a simple iPhone game.
@@ -130,11 +130,11 @@ Here follows a sample of some of the software projects that have already adopted
 * [Tubras](https://code.google.com/p/tubras/), a C++/Lua game engine.
 * [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
 * [Sidenote](https://github.com/mikegagnon/sidenote), a new document format optimized for reading & writing skimmable documents.
-* [Spira](https://rubygems.org/gems/spira), a [Linked Data](https://linkeddata.org/) ORM for Ruby.
+* [Spira](https://rubygems.org/gems/spira), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
 * [Sudoku](https://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
 * [SXP](https://rubygems.org/gems/sxp), a data interchange format based on S-expressions.
 * [UN](https://unlicense.developpez.com/), aiming to write a public domain all-purpose standard library for Java.
-* [UpTheAsset](https://uptheasset.org/), a semantic ontology and system for double-entry bookkeeping and accounting.
+* [UpTheAsset](http://uptheasset.org/), a semantic ontology and system for double-entry bookkeeping and accounting.
 * [weblayer](https://github.com/thruflo/weblayer), a lightweight, componentized Python package for writing web applications.
 * [WP Citation Manager](https://wordpress.org/extend/plugins/citation-manager/), a WordPress plugin for managing external citations to content.
 * [WP Disable Registration Email](https://wordpress.org/extend/plugins/disable-registration-email/), a WordPress plugin for disabling post-registration e-mails to the administrator.
@@ -165,7 +165,7 @@ Some examples of well-known public domain or [license-free](https://en.wikipedia
 * [CLIPS](http://clipsrules.sourceforge.net/), a widely-used forward-chaining, rule-based inference engine, is in the public domain.
 * [byacc](https://invisible-island.net/byacc/byacc.html), the Berkeley [Yacc](https://en.wikipedia.org/wiki/Yacc) parser generator, is in the public domain.
 * [Lemon](https://www.hwaci.com/sw/lemon/), a thread-safe LALR(1) parser generator, is in the public domain.
-* [re2c](https://re2c.org/), a high-performance lexer generator, is in the public domain.
+* [re2c](http://re2c.org/), a high-performance lexer generator, is in the public domain.
 * [Docutils](http://docutils.sourceforge.net/), the Python text-processing system, is mostly in the public domain.
 * [C++ Big Integer Library](https://mattmccutchen.net/bigint/), a library for integer arithmetic, is in the public domain.
 * [PyCrypto](https://www.dlitz.net/software/pycrypto/), the Python cryptography toolkit, is largely in the public domain.
@@ -175,13 +175,13 @@ Some examples of well-known public domain or [license-free](https://en.wikipedia
 * [Phyz](https://phyz.ath.cx/), a soft body dynamics physics engine for Windows, is in the public domain.
 * [NBDS](https://code.google.com/p/nbds/), a C library for various lock-free algorithms (including a lock-free hash table), is in the public domain.
 * [Djehuty](https://github.com/wilkie/djehuty), a fully-verifiable operating system written in the D programming language, is in the public domain.
-* [XOS](https://openxos.org/), a multitasking operating system for the x86 architecture, is in the public domain.
+* [XOS](http://openxos.org/), a multitasking operating system for the x86 architecture, is in the public domain.
 * [PDCLib](http://pdclib.rootdirectory.de/), a minimal C standard library implementation, is in the public domain.
 * [PDPCLIB](http://pdos.sourceforge.net/), another C standard library implementation, is in the public domain.
 * [PDOS](http://pdos.sourceforge.net/), a DOS-compatible operating system, is in the public domain.
 * [SubC](https://www.t3x.org/subc/), a fast and simple compiler for a clean subset of the C programming language, is in the public domain.
 * [c11threads.h](https://github.com/jtsiomb/c11threads), a simple C11 threads implementation based on POSIX threads, is in the public domain.
-* [mpkg](https://charon.persephoneslair.org/~andrea/software/mpkg/), a minimalist package manager for *nix systems, is in the public domain.
+* [mpkg](http://charon.persephoneslair.org/~andrea/software/mpkg/), a minimalist package manager for *nix systems, is in the public domain.
 
 For other listings of public domain software, see [Wikipedia](https://en.wikipedia.org/wiki/Category:Public_domain_software), [Google Code Hosting](https://code.google.com/hosting/search?q=%22public+domain%22), [Savannah](https://www.google.com/search?q=site%3Asavannah.nongnu.org+%22public+domain%22), [Launchpad](https://launchpad.net/projects/+index?text=%22public+domain%22), [CodePlex](https://www.codeplex.com/site/search?projectSearchText=%22public%20domain%22) and the [Python Cheeseshop](https://pypi.python.org/pypi?:action=browse&c=91).
 
