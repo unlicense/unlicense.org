@@ -144,6 +144,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [Poolboy](https://github.com/devinus/poolboy), a hunky Erlang worker pool factory.
 * [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
 * [Proto](https://github.com/droptype/proto), a front-end web prototyping tool.
+* [promise.rb](https://github.com/lgierth/promise.rb), a Ruby implementation of the [Promises/A+](https://promisesaplus.com/) spec.
 * [Pure CSS](https://github.com/sergeylukin) widgets, including a 3D bar graph, jigsaw puzzle piece, and others.
 * [Puzzle Code](https://github.com/mikegagnon/puzzlecode), a game that teaches computer programming just by playing the game.
 * [pyFaceGraph](https://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
