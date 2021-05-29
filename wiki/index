@@ -120,6 +120,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [JSched](https://github.com/vladdu/jsched), a simple Java framework for coroutines.
 * [jStorage](http://www.jstorage.info), a cross-browser key-value store database to store data locally in the browser.
 * [Kakoune](https://github.com/mawww/kakoune), an experimental text editor heavily inspired by Vim.
+* [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements), utility for keyboard customization on macOS Sierra (10.12) or later.
 * [lein-cucumber](https://github.com/nilswloka/lein-cucumber), a simple Leiningen plugin for running Clojure-based Cucumber-JVM specifications.
 * [libcpr](https://github.com/dryproject/libcpr), a backport of the core data structures and algorithms from the C++11 standard library to C.
 * [loopozorg](https://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
