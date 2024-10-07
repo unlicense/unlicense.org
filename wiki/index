@@ -170,6 +170,8 @@ Here follows a sample of some of the software projects that have already adopted
 * [xo](https://github.com/sarnesjo/xo), a superoptimizer for generating optimal x86 assembly programs.
 * [youtube-dl](http://rg3.github.io/youtube-dl/), a command-line program for downloading videos from YouTube.
 * [ZF-Boilerplate](https://github.com/michael-romer/zf-boilerplate), a pre-packaged, pre-configured Zend Framework-based blueprint for enterprise-grade PHP applications.
+* [BatarongOS](https://github.com/batarong/Batarong-Installer), a operating system made for gaming and in honor of batarong.
+
 
 If you would like your own project added to this list, please [create a pull request](https://github.com/unlicense/unencumbered-software/pulls?q=is%3Apr+is%3Aclosed) on the [Registry of Unencumbered Software Projects](https://github.com/unlicense/unencumbered-software), tweet an addition request to [@TheUnlicense](https://twitter.com/theunlicense) on Twitter, or [drop us a note](http://groups.google.com/group/unlicense) on the mailing list.
 
