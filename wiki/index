@@ -43,7 +43,7 @@ To opt out of the copyright industry's game altogether and set your code free, p
 
 In a saner world, you would only need the first one or two paragraphs. For the time being you'll probably [want to retain](http://ar.to/2010/01/dissecting-the-unlicense) the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
 
-You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][] or [Bitbucket][], enabling others to reuse your code in their own unencumbered public domain projects.
+You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][] or [Bitbucket][], enabling others to reuse your code in their own unencumbered public domain projects. When publishing your code to registries such as npm o PyPI, set the license field to `Unlicense` to mark the usage of this license.
 
 For a comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. It was purposely worded uniquely, which means that all the returned search results are likely to relate to the Unlicense in some way.
 
@@ -83,7 +83,7 @@ Here follows a sample of some of the software projects that have already adopted
 * [CSS3 Buttons](https://github.com/michenriksen/css3buttons), a simple CSS framework for creating good-looking GitHub style button links.
 * [Dagny](https://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
 * [Distance](https://github.com/awnist/distance), a CoffeeScript and JavaScript module for calculating Levenshtein/Sift3 distances between strings.
-* [Dux](https://github.com/abhibeckert/Dux), a simple code editor for Mac OS X.
+* [Dux](https://github.com/foreverlikeyou9999/Dux), a simple code editor for macOS.
 * [EagleClaw](https://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
 * [Epoch](http://universe2.us/epoch.html), a lightweight init daemon for Linux systems.
 * [Fancypants](https://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
@@ -230,7 +230,6 @@ If setting your code entirely free still seems a somewhat daunting prospect, try
 Find and follow us on
 <a href="https://twitter.com/theunlicense">Twitter</a>,
 <a href="https://www.facebook.com/TheUnlicense">Facebook</a>,
-<a href="https://plus.google.com/117796491719586050994" rel="publisher">Google+</a>,
 <a href="http://www.reddit.com/r/unlicense/">Reddit</a>, and
 <a href="http://unlicense.tumblr.com">Tumblr</a>.
 
@@ -238,5 +237,3 @@ Find and follow us on
 [Google Search]:      http://www.google.com/search?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22&filter=0
 [GitHub]:             https://github.com/search?q=license%3Aunlicense
 [Bitbucket]:          http://www.google.com/search?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22+site%3Abitbucket.org&filter=0
-
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
