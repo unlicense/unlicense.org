@@ -9,15 +9,15 @@ task :open => :build do
 end
 
 task :build do
-  sh "markdoc build"
+  #sh "markdoc build"
 end
 
 task :clean do
-  sh "markdoc clean-html && markdoc clean-temp"
+  #sh "markdoc clean-html && markdoc clean-temp"
 end
 
 task :serve do
-  sh "markdoc serve"
+  #sh "markdoc serve"
 end
 
 task :upload => :build do
