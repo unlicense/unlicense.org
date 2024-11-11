@@ -1,4 +1,6 @@
 ---
+title: "Unlicense Yourself: Set Your Code Free"
+
 # See: https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
