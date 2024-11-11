@@ -23,18 +23,15 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-What is the Unlicense?
-----------------------
+# What is the Unlicense?
 
 The Unlicense is a template for [disclaiming copyright monopoly interest](http://cr.yp.to/publicdomain.html) in software you've written; in other words, it is a template for dedicating your software to the [public domain](http://stpeter.im/writings/essays/publicdomain.html). It combines a copyright waiver [patterned](http://ar.to/2010/01/dissecting-the-unlicense) after the [very successful](http://www.sqlite.org/famous.html) public domain [SQLite](http://www.sqlite.org/) project with the no-warranty statement from the widely-used [MIT/X11 license](http://en.wikipedia.org/wiki/MIT_License).
 
-Why Use the Unlicense?
-----------------------
+## Why Use the Unlicense?
 
 Because you have more important things to do than enriching lawyers or imposing petty restrictions on users of your code. How often have you passed up on utilizing and contributing to a great software library just because its [open source](http://www.opensource.org/) license was not compatible with your own preferred [flavor](http://www.opensource.org/licenses/alphabetical) of open source? How many precious hours of your life have you spent deliberating how to license your software or worrying about licensing compatibility with other software? You will never get those hours back, but here's your chance to start cutting your losses. Life's too short, let's get back to coding.
 
-The Unlicense
--------------
+## The Unlicense
 
 To opt out of the copyright industry's game altogether and set your code free, put your next software project into the [public domain](http://stpeter.im/writings/essays/publicdomain.html) using the following (un)licensing statement:
 
@@ -69,8 +66,7 @@ You would traditionally put the above statement into a file named `COPYING` or `
 
 For a comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. It was purposely worded uniquely, which means that all the returned search results are likely to relate to the Unlicense in some way.
 
-Unlicensing Contributions
--------------------------
+## Unlicensing Contributions
 
 In order to ensure your project remains completely free and unencumbered by anyone's copyright monopoly, it is advisable that you ask any major contributors to explicitly dedicate their code-base contributions to the public domain.
 
@@ -92,8 +88,7 @@ Note that if a contributor makes significant changes or enhancements in his capa
 
 For a concrete example of this contributor process, see [how the unlicensed RDF.rb project has handled this](http://lists.w3.org/Archives/Public/public-rdf-ruby/2010May/0013.html).
 
-Unlicensed Free Software
-------------------------
+## Unlicensed Free Software
 
 Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
@@ -177,8 +172,7 @@ If you would like your own project added to this list, please [create a pull req
 
 For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. See also a [list of authors](http://twitter.com/theunlicense/developers) who unlicense the software they write as a matter of course.
 
-Public Domain Software
-----------------------
+## Public Domain Software
 
 Some examples of well-known public domain or [license-free](http://en.wikipedia.org/wiki/License-free_software) software libraries and applications:
 
@@ -221,8 +215,7 @@ Some examples of well-known public domain or [license-free](http://en.wikipedia.
 
 For other listings of public domain software, see [Whoow](http://www.whoow.org/public_domain/), [Wikipedia](http://en.wikipedia.org/wiki/Category:Public_domain_software), [SourceForge](https://sourceforge.net/softwaremap/?&fq%5B%5D=trove%3A197), [Freecode](https://freecode.com/tags/public-domain), [Ohloh](http://www.ohloh.net/p?sort=users&q=license%3APublic+Domain), [Google Code Hosting](http://code.google.com/hosting/search?q=%22public+domain%22), [Alioth](http://alioth.debian.org/softwaremap/trove_list.php?form_cat=197), [Savannah](http://www.google.com/search?q=site%3Asavannah.nongnu.org+%22public+domain%22), [Launchpad](https://launchpad.net/projects/+index?text=%22public+domain%22), [CodePlex](http://www.codeplex.com/site/search?projectSearchText=%22public%20domain%22), [RubyForge](http://rubyforge.org/softwaremap/trove_list.php?form_cat=197) and the [Python Cheeseshop](http://pypi.python.org/pypi?:action=browse&c=91).
 
-Other Popular Unlicenses
-------------------------
+## Other Popular Unlicenses
 
 Some other ways to set your code free:
 
@@ -230,8 +223,7 @@ Some other ways to set your code free:
 * [CC0 - Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/) is not intended for software per se.
 * [WTFPL - Do What The Fuck You Want To Public License](http://sam.zoy.org/wtfpl/) can't be beat for blunt directness.
 
-Unlicensing Resources
----------------------
+## Unlicensing Resources
 
 If setting your code entirely free still seems a somewhat daunting prospect, try these perspectives on for size:
 
