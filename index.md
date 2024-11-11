@@ -52,7 +52,7 @@ To opt out of the copyright industry's game altogether and set your code free, p
 
 In a saner world, you would only need the first one or two paragraphs. For the time being you'll probably [want to retain](http://ar.to/2010/01/dissecting-the-unlicense) the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
 
-You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](./UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][] or [Bitbucket][], enabling others to reuse your code in their own unencumbered public domain projects. When publishing your code to registries such as npm o PyPI, set the license field to `Unlicense` to mark the usage of this license.
+You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](https://unlicense.org/UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][] or [Bitbucket][], enabling others to reuse your code in their own unencumbered public domain projects. When publishing your code to registries such as npm o PyPI, set the license field to `Unlicense` to mark the usage of this license.
 
 For a comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. It was purposely worded uniquely, which means that all the returned search results are likely to relate to the Unlicense in some way.
 
@@ -70,7 +70,7 @@ At minimum, you might ask your contributors to accompany any [non-trivial](http:
     dedication to be an overt act of relinquishment in perpetuity of all
     present and future rights to this software under copyright law.
 
-Better yet is to ask the major contributors to [digitally sign](http://en.wikipedia.org/wiki/Digital_signature) a more explicit copyright release (see an example [`WAIVER`](./WAIVER) file), and then to keep a record of such signatures in an `AUTHORS` file accompanying your software. Using [GnuPG](http://www.gnupg.org/), contributors can sign a copyright waiver file as follows:
+Better yet is to ask the major contributors to [digitally sign](http://en.wikipedia.org/wiki/Digital_signature) a more explicit copyright release (see an example [`WAIVER`](https://unlicense.org/WAIVER) file), and then to keep a record of such signatures in an `AUTHORS` file accompanying your software. Using [GnuPG](http://www.gnupg.org/), contributors can sign a copyright waiver file as follows:
 
     $ gpg --no-version --armor --sign WAIVER
 
