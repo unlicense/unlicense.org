@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Editor backup files
+*~
+
+# VitePress artifacts
+.vitepress/cache/
+.vitepress/dist/
+
+# Node artifacts
+node_modules/
