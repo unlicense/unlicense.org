@@ -83,80 +83,23 @@ For a concrete example of this contributor process, see [how the unlicensed RDF.
 Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
 - [Protoflow](https://github.com/AsimovPlatform/protoflow), a framework for flow-based programming (FBP) in Rust using Protocol Buffers messages.
-- [Bitcoin.php](https://github.com/mikegogulski/bitcoin-php), a PHP library (and plugins for [WP e-Commerce](https://github.com/mikegogulski/bitcoin-wp-e-commerce), [Ubercart](https://github.com/mikegogulski/uc_bitcoin), and [VirtueMart](https://github.com/mikegogulski/bitcoin-virtuemart)) for the [Bitcoin](http://bitcoin.org/) peer-to-peer digital currency system.
-- [Bitcoin::OTC](https://github.com/bendiken/bitcoin-otc), a Ruby client for fetching ratings data from the `#bitcoin-otc` trading database.
-- [BitWasp](https://github.com/Bit-Wasp/BitWasp), Open Source Bitcoin Marketplace Software
-- [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to the CRM114 Controllable Regex Mutilator.
 - [CryptLib](https://github.com/WaterJuice/CryptLib), a cryptographic library for C that implements the MD5, SHA-1, SHA-2, and RC4 algorithms.
-- [CSS3 Buttons](https://github.com/michenriksen/css3buttons), a simple CSS framework for creating good-looking GitHub style button links.
-- [Dagny](https://github.com/zacharyvoase/dagny), a Django adaptation of Ruby on Rails's Resource-Oriented Architecture.
-- [Distance](https://github.com/awnist/distance), a CoffeeScript and JavaScript module for calculating Levenshtein/Sift3 distances between strings.
-- [Dux](https://github.com/foreverlikeyou9999/Dux), a simple code editor for macOS.
-- [EagleClaw](https://github.com/zacharyvoase/eagleclaw), a Ruby library for building screen scrapers.
 - [Epoch](http://universe2.us/epoch.html), a lightweight init daemon for Linux systems.
-- [Fancypants](https://github.com/simonwhitaker/fancypants), a JavaScript and Python library of data visualisation trinkets.
-- [fastFrag](https://github.com/gregory80/fastFrag), a simple JSON-based client-side JavaScript templating engine.
-- [ficly, writes like](http://chrome.google.com/extensions/detail/hmgkocbacnpdfoklnggcjjipnicfnklf/), a Google Chrome extension for analyzing ficly.com stories using the iwl.me service.
-- [FlexNav](http://jasonweaver.name/lab/flexiblenavigation/), a jQuery plugin for responsive menus, enabling a device-agnostic approach to complex site navigation.
-- [GrowlAMQP](http://gemcutter.org/gems/growl-amqp), a Ruby daemon that reports AMQP messages via Growl.
-- [Habilis](https://github.com/simonwhitaker/habilis), an email-to-[Dropbox](http://www.dropbox.com/) gateway.
-- [HTTPkit](https://github.com/lgierth/httpkit), a Ruby toolkit for building HTTP clients and servers.
-- [Have-a-Cookie](http://have-a-cookie.tumblr.com/), a Google Chrome extension for enhanced-privacy cookie management.
-- [I2P.rb](http://cypherpunk.rubyforge.org/i2p/), a Ruby library for interacting with the [I2P](http://www.i2p2.de/) anonymity network.
-- [JavaScript Object Graph](http://jsog.sourceforge.net/), a Java library designed to make working with JSON simple.
-- [jQuery JSON-RPC](https://github.com/datagraph/jquery-jsonrpc), a JavaScript JSON-RPC library for jQuery.
-- [JSched](https://github.com/vladdu/jsched), a simple Java framework for coroutines.
-- [jStorage](http://www.jstorage.info), a cross-browser key-value store database to store data locally in the browser.
 - [Kakoune](https://github.com/mawww/kakoune), an experimental text editor heavily inspired by Vim.
-- [lein-cucumber](https://github.com/nilswloka/lein-cucumber), a simple Leiningen plugin for running Clojure-based Cucumber-JVM specifications.
-- [libcpr](https://github.com/dryproject/libcpr), a backport of the core data structures and algorithms from the C++11 standard library to C.
-- [loopozorg](https://github.com/narfdotpl/loopozorg), Python infrastructure for executing shell commands on file modification.
-- [Mailr](http://mailr.org/), a Ruby on Rails-based webmail application.
-- [Machinery](http://sourceforge.net/projects/machinery/), a C library for dynamic x86 and MIPS code generation.
-- [Markdoc](https://github.com/zacharyvoase/markdoc), a Python-based lightweight Markdown-based wiki system.
-- [MathIsFun2](https://github.com/saumya/MathIsFun2), a simple iPhone game.
-- [miniz.c](http://code.google.com/p/miniz/), a single-source-file, high-performance deflate/inflate compression library with a [zlib](http://zlib.net/)-compatible API.
-- [Nano](https://github.com/rwarasaurus/nano), a nano-sized PHP framework.
-- [netscan](http://bitbucket.org/noname/netscan/), a C-based set of low-level network utilities.
+- [miniz.c](https://github.com/richgel999/miniz), a single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API.
 - [Nobox](https://github.com/serprex/nobox), a minimalist stacking window manager written in C using XCB.
 - [node-rdf](http://npmjs.org/package/rdf), an ECMAScript/Node.js library for handling RDF data.
-- [Nuush](http://chr.tx0.org/nuush), a Bash-based command-line RSS feed reader.
-- [OpenPGP.rb](http://openpgp.rubyforge.org/), a Ruby implementation of the OpenPGP Message Format (RFC 4880).
-- [OTRXMPPChannel](https://github.com/mikegogulski/python-otrxmppchannel), An OTR-XMPP communication channel for Python
-- [OTRXMPPLogger](https://github.com/mikegogulski/python-otrxmpplogger), Logging over OTR and XMPP in Python
-- [pdiffer](http://pypi.python.org/pypi/pdiffer), a Python interface to the PerceptualDiff tool.
-- [PHP.rb](http://php.rubyforge.org/), a Ruby-to-PHP code generator.
-- [PicoSpeaker](http://picospeaker.tk/), an interface to the SVOX Pico text-to-speech system.
-- [Pondasee](https://github.com/tokokoo/pondasee), a frontend web developer starter kit using SCSS and Compass.
+- [PicoSpeaker](https://github.com/shilbert01/picospeaker), an interface to the SVox Pico text-to-speech system.
 - [Poolboy](https://github.com/devinus/poolboy), a hunky Erlang worker pool factory.
-- [Prosper](http://prosper-lib.com/), a PHP 5.3 database abstraction layer library.
-- [Proto](https://github.com/droptype/proto), a front-end web prototyping tool.
-- [Pure CSS](https://github.com/sergeylukin) widgets, including a 3D bar graph, jigsaw puzzle piece, and others.
-- [Puzzle Code](https://github.com/mikegagnon/puzzlecode), a game that teaches computer programming just by playing the game.
 - [pyFaceGraph](https://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
-- [Qataki](https://github.com/chr/qataki), a command-line Identi.ca/StatusNet/Twitter client.
-- [Rack::Throttle](http://datagraph.rubyforge.org/rack-throttle/), Rack middleware for rate-limiting incoming HTTP requests.
-- [RDF.rb](http://rdf.rubyforge.org/), a Ruby library for working with Resource Description Framework (RDF) data.
+- [RDF.rb](https://github.com/ruby-rdf/rdf), a Ruby library for working with Resource Description Framework (RDF) data.
 - [RDFI.js](https://github.com/webr3/rdf-interfaces), a JavaScript implementation of the core [RDF Interfaces Specification](http://www.w3.org/2010/02/rdfa/sources/rdf-interfaces/).
-- [RSA.rb](http://rsa.rubyforge.org/), a Ruby implementation of the RSA encryption algorithm and the PKCS#1 cryptography standard.
-- [tkpip](https://github.com/lishnih/tkpip), a tool for installing and managing Python packages based on Tk.
-- [tkrequest](https://github.com/lishnih/tkrequest), a tool for sending and receiving HTTP requests based on Tk.
-- [Tor.rb](http://cypherpunk.rubyforge.org/tor/), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
-- [Tubras](http://code.google.com/p/tubras/), a C++/Lua game engine.
+- [Tor.rb](https://github.com/dryruby/tor.rb), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
 - [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
-- [Sidenote](https://github.com/mikegagnon/sidenote), a new document format optimized for reading & writing skimmable documents.
-- [Spira](http://spira.rubyforge.org/), a [Linked Data](http://linkeddata.org/) ORM for Ruby.
-- [stacktrace.js](http://stacktracejs.com/), a framework-agnostic JavaScript micro-library for getting stack traces in all web browsers.
 - [Sudoku](https://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
 - [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
 - [UN](http://unlicense.developpez.com/), aiming to write a public domain all-purpose standard library for Java.
-- [UpTheAsset](http://uptheasset.org/), a semantic ontology and system for double-entry bookkeeping and accounting.
-- [weblayer](https://github.com/thruflo/weblayer), a lightweight, componentized Python package for writing web applications.
-- [WP Citation Manager](http://wordpress.org/extend/plugins/citation-manager/), a WordPress plugin for managing external citations to content.
-- [WP Disable Registration Email](http://wordpress.org/extend/plugins/disable-registration-email/), a WordPress plugin for disabling post-registration e-mails to the administrator.
-- [xo](https://github.com/sarnesjo/xo), a superoptimizer for generating optimal x86 assembly programs.
-- [youtube-dl](http://rg3.github.io/youtube-dl/), a command-line program for downloading videos from YouTube.
-- [ZF-Boilerplate](https://github.com/michael-romer/zf-boilerplate), a pre-packaged, pre-configured Zend Framework-based blueprint for enterprise-grade PHP applications.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl), a command-line program for downloading videos from YouTube.
 
 If you would like your own project added to this list, please [create a pull request](https://github.com/unlicense/unencumbered-software/pulls?q=is%3Apr+is%3Aclosed) on the [Registry of Unencumbered Software Projects](https://github.com/unlicense/unencumbered-software), tweet an addition request to [@TheUnlicense](https://twitter.com/theunlicense) on Twitter, or [drop us a note](http://groups.google.com/group/unlicense) on the mailing list.
 
