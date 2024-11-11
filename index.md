@@ -82,6 +82,7 @@ For a concrete example of this contributor process, see [how the unlicensed RDF.
 
 Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
+- [Protoflow](https://github.com/AsimovPlatform/protoflow), a framework for flow-based programming (FBP) in Rust using Protocol Buffers messages.
 - [Bitcoin.php](https://github.com/mikegogulski/bitcoin-php), a PHP library (and plugins for [WP e-Commerce](https://github.com/mikegogulski/bitcoin-wp-e-commerce), [Ubercart](https://github.com/mikegogulski/uc_bitcoin), and [VirtueMart](https://github.com/mikegogulski/bitcoin-virtuemart)) for the [Bitcoin](http://bitcoin.org/) peer-to-peer digital currency system.
 - [Bitcoin::OTC](https://github.com/bendiken/bitcoin-otc), a Ruby client for fetching ratings data from the `#bitcoin-otc` trading database.
 - [BitWasp](https://github.com/Bit-Wasp/BitWasp), Open Source Bitcoin Marketplace Software
