@@ -84,6 +84,8 @@ Here follows a sample of some of the software projects that have already adopted
 
 - [CryptLib](https://github.com/WaterJuice/CryptLib), a cryptographic library for C that implements the MD5, SHA-1, SHA-2, and RC4 algorithms.
 - [Epoch](http://universe2.us/epoch.html), a lightweight init daemon for Linux systems.
+- [furl](https://github.com/gruns/furl), a small Python library that makes parsing and manipulating URLs easy.
+- [gl3w](https://github.com/skaslev/gl3w), simple OpenGL core profile loading for Python.
 - [Kakoune](https://github.com/mawww/kakoune), an experimental text editor heavily inspired by Vim.
 - [miniz.c](https://github.com/richgel999/miniz), a single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API.
 - [Nobox](https://github.com/serprex/nobox), a minimalist stacking window manager written in C using XCB.
@@ -94,6 +96,8 @@ Here follows a sample of some of the software projects that have already adopted
 - [pyFaceGraph](https://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
 - [RDF.rb](https://github.com/ruby-rdf/rdf), a Ruby library for working with Resource Description Framework (RDF) data.
 - [RDFI.js](https://github.com/webr3/rdf-interfaces), a JavaScript implementation of the core [RDF Interfaces Specification](http://www.w3.org/2010/02/rdfa/sources/rdf-interfaces/).
+- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge), a PHP web application that generates RSS feeds for websites that don't have one.
+- [stb](https://github.com/nothings/stb), a set of single-file public domain libraries for C/C++.
 - [Sudoku](https://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
 - [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
 - [Tor.rb](https://github.com/dryruby/tor.rb), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
