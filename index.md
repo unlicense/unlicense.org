@@ -82,30 +82,31 @@ For a concrete example of this contributor process, see [how the unlicensed RDF.
 
 Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
-- [CryptLib](https://github.com/WaterJuice/CryptLib), a cryptographic library for C that implements the MD5, SHA-1, SHA-2, and RC4 algorithms.
-- [Epoch](http://universe2.us/epoch.html), a lightweight init daemon for Linux systems.
-- [furl](https://github.com/gruns/furl), a small Python library that makes parsing and manipulating URLs easy.
-- [gl3w](https://github.com/skaslev/gl3w), simple OpenGL core profile loading for Python.
-- [Kakoune](https://github.com/mawww/kakoune), an experimental text editor heavily inspired by Vim.
-- [miniz.c](https://github.com/richgel999/miniz), a single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API.
-- [Nobox](https://github.com/serprex/nobox), a minimalist stacking window manager written in C using XCB.
-- [node-rdf](http://npmjs.org/package/rdf), an ECMAScript/Node.js library for handling RDF data.
-- [PicoSpeaker](https://github.com/shilbert01/picospeaker), an interface to the SVox Pico text-to-speech system.
-- [Poolboy](https://github.com/devinus/poolboy), a hunky Erlang worker pool factory.
-- [Protoflow](https://github.com/AsimovPlatform/protoflow), a framework for flow-based programming (FBP) in Rust using Protocol Buffers messages.
-- [pyFaceGraph](https://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
-- [RDF.rb](https://github.com/ruby-rdf/rdf), a Ruby library for working with Resource Description Framework (RDF) data.
-- [RDFI.js](https://github.com/webr3/rdf-interfaces), a JavaScript implementation of the core [RDF Interfaces Specification](http://www.w3.org/2010/02/rdfa/sources/rdf-interfaces/).
-- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge), a PHP web application that generates RSS feeds for websites that don't have one.
-- [stb](https://github.com/nothings/stb), a set of single-file public domain libraries for C/C++.
-- [Sudoku](https://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
-- [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
-- [Tor.rb](https://github.com/dryruby/tor.rb), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
-- [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
-- [UN](http://unlicense.developpez.com/), aiming to write a public domain all-purpose standard library for Java.
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl), a command-line program for downloading videos from YouTube.
+| Project | Summary |
+| :------ | :------ |
+| [CryptLib](https://github.com/WaterJuice/CryptLib) | A cryptographic library for C that implements the MD5, SHA-1, SHA-2, and RC4 algorithms. |
+| [Epoch](http://universe2.us/epoch.html) | A lightweight init daemon for Linux systems. |
+| [furl](https://github.com/gruns/furl) | A small Python library that makes parsing and manipulating URLs easy. |
+| [gl3w](https://github.com/skaslev/gl3w) | Simple OpenGL core profile loading for Python. |
+| [Kakoune](https://github.com/mawww/kakoune) | An experimental text editor heavily inspired by Vim. |
+| [miniz.c](https://github.com/richgel999/miniz) | A single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API. |
+| [Nobox](https://github.com/serprex/nobox) | A minimalist stacking window manager written in C using XCB. |
+| [node-rdf](http://npmjs.org/package/rdf) | An ECMAScript/Node.js library for handling RDF data. |
+| [PicoSpeaker](https://github.com/shilbert01/picospeaker) | An interface to the SVox Pico text-to-speech system. |
+| [Poolboy](https://github.com/devinus/poolboy) | A hunky Erlang worker pool factory. |
+| [Protoflow](https://github.com/AsimovPlatform/protoflow) | A framework for flow-based programming (FBP) in Rust using Protocol Buffers messages. |
+| [pyFaceGraph](https://github.com/iplatform/pyFaceGraph) | A Python client library for Facebook's Open Graph Protocol. |
+| [RDF.rb](https://github.com/ruby-rdf/rdf) | A Ruby library for working with Resource Description Framework (RDF) data. |
+| [RDFI.js](https://github.com/webr3/rdf-interfaces) | A JavaScript implementation of the core [RDF Interfaces Specification](http://www.w3.org/2010/02/rdfa/sources/rdf-interfaces/). |
+| [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) | A PHP web application that generates RSS feeds for websites that don't have one. |
+| [stb](https://github.com/nothings/stb) | A set of single-file public domain libraries for C/C++. |
+| [Sudoku](https://github.com/wimleers/sudoku/wiki) | A fancy, feature-complete, cross-platform Sudoku app written in C++/Qt. |
+| [Tor.rb](https://github.com/dryruby/tor.rb) | A Ruby library for interacting with the [Tor](http://www.torproject.org) anonymity network. |
+| [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic) | A Mac OS X application for designing CAMediaTimingFunction animation curves. |
+| [UN](http://unlicense.developpez.com/) | Aiming to write a public domain all-purpose standard library for Java. |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | A command-line program for downloading videos from YouTube. |
 
-If you would like your own project added to this list, please [create a pull request](https://github.com/unlicense/unencumbered-software/pulls?q=is%3Apr+is%3Aclosed) on the [Registry of Unencumbered Software Projects](https://github.com/unlicense/unencumbered-software) or tweet an addition request to [@bendiken](https://x.com/bendiken) on X.
+If you would like your own project to be potentially added to this list, please [create a pull request](https://github.com/unlicense/unencumbered-software/pulls?q=is%3Apr+is%3Aclosed) on the [Registry of Unencumbered Software Projects](https://github.com/unlicense/unencumbered-software) or tweet an addition suggestion to [@bendiken](https://x.com/bendiken) on X.
 
 For a more comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. See also a [list of authors](http://twitter.com/theunlicense/developers) who unlicense the software they write as a matter of course.
 
