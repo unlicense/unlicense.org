@@ -82,7 +82,6 @@ For a concrete example of this contributor process, see [how the unlicensed RDF.
 
 Here follows a sample of some of the software projects that have already adopted the Unlicense or a derivative thereof:
 
-- [Protoflow](https://github.com/AsimovPlatform/protoflow), a framework for flow-based programming (FBP) in Rust using Protocol Buffers messages.
 - [CryptLib](https://github.com/WaterJuice/CryptLib), a cryptographic library for C that implements the MD5, SHA-1, SHA-2, and RC4 algorithms.
 - [Epoch](http://universe2.us/epoch.html), a lightweight init daemon for Linux systems.
 - [Kakoune](https://github.com/mawww/kakoune), an experimental text editor heavily inspired by Vim.
@@ -91,13 +90,14 @@ Here follows a sample of some of the software projects that have already adopted
 - [node-rdf](http://npmjs.org/package/rdf), an ECMAScript/Node.js library for handling RDF data.
 - [PicoSpeaker](https://github.com/shilbert01/picospeaker), an interface to the SVox Pico text-to-speech system.
 - [Poolboy](https://github.com/devinus/poolboy), a hunky Erlang worker pool factory.
+- [Protoflow](https://github.com/AsimovPlatform/protoflow), a framework for flow-based programming (FBP) in Rust using Protocol Buffers messages.
 - [pyFaceGraph](https://github.com/iplatform/pyFaceGraph), a Python client library for Facebook's Open Graph Protocol.
 - [RDF.rb](https://github.com/ruby-rdf/rdf), a Ruby library for working with Resource Description Framework (RDF) data.
 - [RDFI.js](https://github.com/webr3/rdf-interfaces), a JavaScript implementation of the core [RDF Interfaces Specification](http://www.w3.org/2010/02/rdfa/sources/rdf-interfaces/).
-- [Tor.rb](https://github.com/dryruby/tor.rb), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
-- [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
 - [Sudoku](https://github.com/wimleers/sudoku/wiki), a fancy, feature-complete, cross-platform Sudoku app written in C++/Qt.
 - [SXP](http://sxp.rubyforge.org/), a data interchange format based on S-expressions.
+- [Tor.rb](https://github.com/dryruby/tor.rb), a Ruby library for interacting with the [Tor](http://www.torproject.org/) anonymity network.
+- [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic), a Mac OS X application for designing CAMediaTimingFunction animation curves.
 - [UN](http://unlicense.developpez.com/), aiming to write a public domain all-purpose standard library for Java.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl), a command-line program for downloading videos from YouTube.
 
