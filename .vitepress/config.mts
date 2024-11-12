@@ -42,5 +42,9 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/unlicense" },
       { icon: "twitter", link: "https://x.com/bendiken" },
     ],
+    footer: {
+      message:
+        'Created and maintained <a href="https://ar.to/2010/01/set-your-code-free">since 2010</a> by <a href="https://ar.to">Arto Bendiken</a> (find him on <a href="https://x.com/bendiken">X</a>, <a href="https://github.com/artob">GitHub</a>, and <a href="https://www.linkedin.com/in/arto">LinkedIn</a>)',
+    },
   },
 });
