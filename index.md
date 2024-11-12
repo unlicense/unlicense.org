@@ -15,15 +15,15 @@ features:
 
 # What is the Unlicense?
 
-The Unlicense is a template for [disclaiming copyright monopoly interest](http://cr.yp.to/publicdomain.html) in software you've written; in other words, it is a template for dedicating your software to the [public domain](http://stpeter.im/writings/essays/publicdomain.html). It combines a copyright waiver [patterned](http://ar.to/2010/01/dissecting-the-unlicense) after the [very successful](http://www.sqlite.org/famous.html) public domain [SQLite](http://www.sqlite.org/) project with the no-warranty statement from the widely-used [MIT/X11 license](http://en.wikipedia.org/wiki/MIT_License).
+The Unlicense is a template for [disclaiming copyright monopoly interest](https://cr.yp.to/publicdomain.html) in software you've written; in other words, it is a template for dedicating your software to the [public domain](https://stpeter.im/writings/essays/publicdomain.html). It combines a copyright waiver [patterned](https://ar.to/2010/01/dissecting-the-unlicense) after the [very successful](https://www.sqlite.org/famous.html) public domain [SQLite](https://www.sqlite.org) project with the no-warranty statement from the widely-used [MIT/X11 license](https://en.wikipedia.org/wiki/MIT_License).
 
 ## Why Use the Unlicense?
 
-Because you have more important things to do than enriching lawyers or imposing petty restrictions on users of your code. How often have you passed up on utilizing and contributing to a great software library just because its [open source](http://www.opensource.org/) license was not compatible with your own preferred [flavor](http://www.opensource.org/licenses/alphabetical) of open source? How many precious hours of your life have you spent deliberating how to license your software or worrying about licensing compatibility with other software? You will never get those hours back, but here's your chance to start cutting your losses. Life's too short, let's get back to coding.
+Because you have more important things to do than enriching lawyers or imposing petty restrictions on users of your code. How often have you passed up on utilizing and contributing to a great software library just because its [open source](https://en.wikipedia.org/wiki/Open_source) license was not compatible with your own preferred [flavor](https://spdx.org/licenses/) of open source? How many precious hours of your life have you spent deliberating how to license your software or worrying about licensing compatibility with other software? You will never get those hours back, but here's your chance to start cutting your losses. Life's too short, let's get back to coding.
 
 ## The Unlicense
 
-To opt out of the copyright industry's game altogether and set your code free, put your next software project into the [public domain](http://stpeter.im/writings/essays/publicdomain.html) using the following (un)licensing statement:
+To opt out of the copyright industry's game altogether and set your code free, put your next software project into the [public domain](https://stpeter.im/writings/essays/publicdomain.html) using the following (un)licensing statement:
 
     This is free and unencumbered software released into the public domain.
 
@@ -50,7 +50,9 @@ To opt out of the copyright industry's game altogether and set your code free, p
 
     For more information, please refer to <https://unlicense.org/>
 
-In a saner world, you would only need the first one or two paragraphs. For the time being you'll probably [want to retain](http://ar.to/2010/01/dissecting-the-unlicense) the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
+::: tip
+In a saner world, you would only need the first one or two paragraphs. For the time being you'll probably [want to retain](https://ar.to/2010/01/dissecting-the-unlicense) the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
+:::
 
 You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](https://unlicense.org/UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][] or [Bitbucket][], enabling others to reuse your code in their own unencumbered public domain projects. When publishing your code to registries such as npm o PyPI, set the license field to `Unlicense` to mark the usage of this license.
 
@@ -60,9 +62,9 @@ For a comprehensive listing of software using the Unlicense, [google for the fir
 
 In order to ensure your project remains completely free and unencumbered by anyone's copyright monopoly, it is advisable that you ask any major contributors to explicitly dedicate their code-base contributions to the public domain.
 
-This removes any possible ambiguity as to what terms somebody might have thought they were contributing under, in case of a future dispute. These concerns are not unique to public domain software. Most large, established open-source projects have a Contributor License Agreement ([CLA](http://en.wikipedia.org/wiki/Contributor_License_Agreement)) process, of varying degrees of formality.
+This removes any possible ambiguity as to what terms somebody might have thought they were contributing under, in case of a future dispute. These concerns are not unique to public domain software. Most large, established open-source projects have a Contributor License Agreement ([CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement)) process, of varying degrees of formality.
 
-At minimum, you might ask your contributors to accompany any [non-trivial](http://www.gnu.org/prep/maintain/maintain.html#Legally-Significant) patches with a simple statement like the following:
+At minimum, you might ask your contributors to accompany any [non-trivial](https://www.gnu.org/prep/maintain/maintain.html#Legally-Significant) patches with a simple statement like the following:
 
     I dedicate any and all copyright interest in this software to the
     public domain. I make this dedication for the benefit of the public at
@@ -70,11 +72,11 @@ At minimum, you might ask your contributors to accompany any [non-trivial](http:
     dedication to be an overt act of relinquishment in perpetuity of all
     present and future rights to this software under copyright law.
 
-Better yet is to ask the major contributors to [digitally sign](http://en.wikipedia.org/wiki/Digital_signature) a more explicit copyright release (see an example [`WAIVER`](https://unlicense.org/WAIVER) file), and then to keep a record of such signatures in an `AUTHORS` file accompanying your software. Using [GnuPG](http://www.gnupg.org/), contributors can sign a copyright waiver file as follows:
+Better yet is to ask the major contributors to [digitally sign](https://en.wikipedia.org/wiki/Digital_signature) a more explicit copyright release (see an example [`WAIVER`](https://unlicense.org/WAIVER) file), and then to keep a record of such signatures in an `AUTHORS` file accompanying your software. Using [GnuPG](https://www.gnupg.org), contributors can sign a copyright waiver file as follows:
 
     $ gpg --no-version --armor --sign WAIVER
 
-Note that if a contributor makes significant changes or enhancements in his capacity as an employee of some formal organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](http://www.sqlite.org/copyright.html). The Free Software Foundation (FSF) also [provides an example](http://www.fsf.org/licensing/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
+Note that if a contributor makes significant changes or enhancements in his capacity as an employee of some formal organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](https://www.sqlite.org/copyright.html). The Free Software Foundation (FSF) also [provides an example](https://www.gnu.org/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
 
 For a concrete example of this contributor process, see [how the unlicensed RDF.rb project has handled this](http://lists.w3.org/Archives/Public/public-rdf-ruby/2010May/0013.html).
 
@@ -112,7 +114,7 @@ For a more comprehensive listing of software using the Unlicense, [google for th
 
 ## Public Domain Software
 
-Some examples of well-known public domain or [license-free](http://en.wikipedia.org/wiki/License-free_software) software libraries and applications:
+Some examples of well-known public domain or [license-free](https://en.wikipedia.org/wiki/License-free_software) software libraries and applications:
 
 - [CERN httpd](http://en.wikipedia.org/wiki/CERN_httpd), the original World Wide Web daemon developed by Tim Berners-Lee, was [in the public domain](http://tenyears-www.web.cern.ch/tenyears-www/Welcome.html).
 - [SQLite](http://www.sqlite.org/), the [most widely-deployed](http://www.sqlite.org/mostdeployed.html) SQL database in the world, is [in the public domain](http://www.sqlite.org/copyright.html).
@@ -165,25 +167,25 @@ Some other ways to set your code free:
 
 If setting your code entirely free still seems a somewhat daunting prospect, try these perspectives on for size:
 
-- [Who's Afraid of the Public Domain?](http://stpeter.im/writings/essays/publicdomain.html)
-- [The Surprising History of Copyright and The Promise of a Post-Copyright World](http://questioncopyright.org/promise)
+- [Who's Afraid of the Public Domain?](https://stpeter.im/writings/essays/publicdomain.html)
+- [The Surprising History of Copyright and The Promise of a Post-Copyright World](https://www.questioncopyright.org/promise/)
 - [What is Copyright?](https://stpeter.im/writings/essays/whatiscopyright.html)
-- [Placing Documents into the Public Domain](http://cr.yp.to/publicdomain.html)
-- [The Unlicense: The First Year in Review](http://ar.to/2011/01/unlicense-1st-year)
-- [Licensed, License-Free, and Unlicensed Code](http://ar.to/2010/12/licensing-and-unlicensing)
-- [Set Your Code Free](http://ar.to/2010/01/set-your-code-free)
-- [Dissecting the Unlicense: Software Freedom in Four Clauses and a Link](http://ar.to/2010/01/dissecting-the-unlicense)
-- [Why I'm Going Public](http://zacharyvoase.com/2010/01/04/unlicense/)
-- [I Just Unlicensed My Software](http://mikegagnon.com/2013/09/30/i-just-unlicensed-my-software/)
-- [The Promising Future of the Unlicense](http://bhuga.net/2010/01/promising-future-unlicense)
-- [To License or to Unlicense?](http://blog.verbose.nl/post/3680501466/to-license-or-to-unlicense)
-- [Language Matters: Framing The Copyright Monopoly So We Can Keep Our Liberties](http://torrentfreak.com/language-matters-framing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714/)
+- [Placing Documents into the Public Domain](https://cr.yp.to/publicdomain.html)
+- [The Unlicense: The First Year in Review](https://ar.to/2011/01/unlicense-1st-year)
+- [Licensed, License-Free, and Unlicensed Code](https://ar.to/2010/12/licensing-and-unlicensing)
+- [Set Your Code Free](https://ar.to/2010/01/set-your-code-free)
+- [Dissecting the Unlicense: Software Freedom in Four Clauses and a Link](https://ar.to/2010/01/dissecting-the-unlicense)
+- [Why I'm Going Public](https://web.archive.org/web/20130619070147/http://zacharyvoase.com/2010/01/04/unlicense/)
+- [I Just Unlicensed My Software](https://web.archive.org/web/20131117085918/http://mikegagnon.com/2013/09/30/i-just-unlicensed-my-software/)
+- [The Promising Future of the Unlicense](https://bhuga.net/promising-future-unlicense)
+- [To License or to Unlicense?](https://web.archive.org/web/20110703025747/http://blog.verbose.nl/post/3680501466/to-license-or-to-unlicense)
+- [Language Matters: Framing The Copyright Monopoly So We Can Keep Our Liberties](https://torrentfreak.com/language-matters-framing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714/)
 
 Find and follow us on
 <a href="https://twitter.com/theunlicense">Twitter</a>,
 <a href="https://www.facebook.com/TheUnlicense">Facebook</a>,
-<a href="http://www.reddit.com/r/unlicense/">Reddit</a>, and
-<a href="http://unlicense.tumblr.com">Tumblr</a>.
+<a href="https://www.reddit.com/r/unlicense/">Reddit</a>, and
+<a href="https://unlicense.tumblr.com">Tumblr</a>.
 
 [anti-copyright]:     http://en.wikipedia.org/wiki/Anti-copyright
 [Google Search]:      http://www.google.com/search?q=%22This+is+free+and+unencumbered+software+released+into+the+public+domain%22&filter=0
