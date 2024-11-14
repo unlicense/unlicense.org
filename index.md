@@ -54,7 +54,7 @@ To opt out of the copyright industry's game altogether and set your code free, p
 In a saner world, you would only need the first one or two paragraphs. For the time being you'll probably [want to retain](https://ar.to/2010/01/dissecting-the-unlicense) the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
 :::
 
-You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](https://unlicense.org/UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][] or [Bitbucket][], enabling others to reuse your code in their own unencumbered public domain projects. When publishing your code to registries such as npm o PyPI, set the license field to `Unlicense` to mark the usage of this license.
+You would traditionally put the above statement into a file named `COPYING` or `LICENSE`. However, to explicitly distance yourself from the whole concept of copyright licensing, we recommend that you put your unlicensing statement in a file named [`UNLICENSE`](https://unlicense.org/UNLICENSE). Doing so also means that your project can more easily be found on e.g. [GitHub][] or [Bitbucket][], enabling others to reuse your code in their own unencumbered public domain projects. When publishing your code to registries such as NPM or PyPI, set the license field to `Unlicense` to mark the usage of this license.
 
 For a comprehensive listing of software using the Unlicense, [google for the first line of the Unlicense][Google Search]. It was purposely worded uniquely, which means that all the returned search results are likely to relate to the Unlicense in some way.
 
@@ -86,31 +86,31 @@ For a concrete example of this contributor process, see [how the unlicensed RDF.
 
 Here follows a sampling of some excellent software projects that have already adopted the Unlicense or a derivative thereof:
 
-| Project | Summary | Code |
-| :------ | :------ | ---: |
-| [furl](https://github.com/gruns/furl) | URL parsing and manipulation made easy. | [:link:](https://github.com/gruns/furl) |
-| [gl3w](https://github.com/skaslev/gl3w) | Simple OpenGL core profile loader. | [:link:](https://github.com/skaslev/gl3w) |
-| [jslint](https://jslint.com) | The JavaScript code quality and coverage tool. | [:link:](https://github.com/jslint-org/jslint) |
-| [Kakoune](https://kakoune.org) | An experimental text editor heavily inspired by Vim. | [:link:](https://github.com/mawww/kakoune) |
-| [Miniz](https://github.com/richgel999/miniz) | A single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API. | [:link:](https://github.com/richgel999/miniz) |
-| [NearDrop](https://github.com/grishka/NearDrop) | A partial implementation of Google's Nearby Share/Quick Share for macOS. | [:link:](https://github.com/grishka/NearDrop) |
-| [node-rdf](https://npmjs.com/package/rdf) | An ECMAScript/Node.js library for handling RDF data. | [:link:](https://github.com/awwright/node-rdf) |
-| [Poolboy](https://github.com/devinus/poolboy) | A hunky Erlang worker pool factory. | [:link:](https://github.com/devinus/poolboy) |
-| [Postgres.js](https://github.com/porsager/postgres) | The fastest full-featured PostgreSQL client for Node.js, Deno, Bun, and Cloudflare. | [:link:](https://github.com/porsager/postgres) |
-| [Protoflow](https://protoflow.rs) | Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages. | [:link:](https://github.com/AsimovPlatform/protoflow) |
-| [pytube](https://pytube.io) | A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos. | [:link:](https://github.com/pytube/pytube) |
-| [RDF.rb](https://rubygems.org/gems/rdf) | A Ruby library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/ruby-rdf/rdf) |
-| [ripgrep](https://github.com/BurntSushi/ripgrep) | A line-oriented search tool that recursively searches the current directory for a regex pattern. | [:link:](https://github.com/BurntSushi/ripgrep) |
-| [RSS-Bridge](https://github.com/RSS-Bridge) | A PHP web application that generates RSS feeds for websites that don't have one. | [:link:](https://github.com/RSS-Bridge/rss-bridge) |
-| [stb](https://github.com/nothings/stb) | A set of single-file public domain libraries for C/C++. | [:link:](https://github.com/nothings/stb) |
-| [Tor.rb](https://rubygems.org/gems/tor) | A Ruby library for interacting with the Tor anonymity network. | [:link:](https://github.com/dryruby/tor.rb) |
-| [Translate Shell](https://www.soimort.org/translate-shell/) | A command-line translator powered by Google Translate, Bing Translator, Yandex.Translate, and Apertium. | [:link:](https://github.com/soimort/translate-shell) |
-| [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic) | A macOS application for designing CAMediaTimingFunction animation curves. | [:link:](https://github.com/simonwhitaker/tween-o-matic) |
-| [UN](https://unlicense.developpez.com) | Aiming to write a public domain all-purpose standard library for Java. | [:link:](https://bitbucket.org/Eclesia/un-lib) |
-| [WjCryptLib](https://github.com/WaterJuice/WjCryptLib) | A collection of cryptographic functions written in C. | [:link:](https://github.com/WaterJuice/WjCryptLib) |
-| [xsv](https://github.com/BurntSushi/xsv) | A command-line program for indexing, slicing, analyzing, splitting, and joining CSV files. | [:link:](https://github.com/BurntSushi/xsv) |
-| [youtube-dl](https://rg3.github.io/youtube-dl/) | A command-line program to download videos from YouTube.com and a few more sites. | [:link:](https://github.com/rg3/youtube-dl) |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader. | [:link:](https://github.com/yt-dlp/yt-dlp) |
+| Project | Summary | Links |
+| :------ | :------ | ----: |
+| [furl](https://github.com/gruns/furl) | URL parsing and manipulation made easy. | [:link:](https://github.com/gruns/furl) [:arrow_down:](https://pypi.org/project/furl/) |
+| [gl3w](https://github.com/skaslev/gl3w) | Simple OpenGL core profile loader. | [:link:](https://github.com/skaslev/gl3w) [:arrow_down:](https://github.com/skaslev/gl3w) |
+| [jslint](https://jslint.com) | The JavaScript code quality and coverage tool. | [:link:](https://github.com/jslint-org/jslint) [:arrow_down:](https://npmjs.com/package/@jslint-org/jslint) |
+| [Kakoune](https://kakoune.org) | An experimental text editor heavily inspired by Vim. | [:link:](https://github.com/mawww/kakoune) [:arrow_down:](https://github.com/mawww/kakoune/releases) |
+| [Miniz](https://github.com/richgel999/miniz) | A single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API. | [:link:](https://github.com/richgel999/miniz) [:arrow_down:](https://github.com/richgel999/miniz/releases) |
+| [NearDrop](https://github.com/grishka/NearDrop) | A partial implementation of Google's Nearby Share/Quick Share for macOS. | [:link:](https://github.com/grishka/NearDrop) [:arrow_down:](https://github.com/grishka/NearDrop/releases) |
+| [node-rdf](https://npmjs.com/package/rdf) | An ECMAScript/Node.js library for handling RDF data. | [:link:](https://github.com/awwright/node-rdf) [:arrow_down:](https://npmjs.com/package/rdf) |
+| [Poolboy](https://github.com/devinus/poolboy) | A hunky Erlang worker pool factory. | [:link:](https://github.com/devinus/poolboy) [:arrow_down:](https://hex.pm/packages/poolboy) |
+| [Postgres.js](https://github.com/porsager/postgres) | The fastest full-featured PostgreSQL client for Node.js, Deno, Bun, and Cloudflare. | [:link:](https://github.com/porsager/postgres) [:arrow_down:](https://npmjs.com/package/postgres) |
+| [Protoflow](https://protoflow.rs) | Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages. | [:link:](https://github.com/AsimovPlatform/protoflow) [:arrow_down:](https://crates.io/crates/protoflow) |
+| [pytube](https://pytube.io) | A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos. | [:link:](https://github.com/pytube/pytube) [:arrow_down:](https://pypi.org/project/pytube/) |
+| [RDF.rb](https://rubygems.org/gems/rdf) | A Ruby library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/ruby-rdf/rdf) [:arrow_down:](https://rubygems.org/gems/rdf) |
+| [ripgrep](https://github.com/BurntSushi/ripgrep) | A line-oriented search tool that recursively searches the current directory for a regex pattern. | [:link:](https://github.com/BurntSushi/ripgrep) [:arrow_down:](https://github.com/BurntSushi/ripgrep/releases) |
+| [RSS-Bridge](https://rss-bridge.org/bridge01/) | A PHP web application that generates RSS feeds for websites that don't have one. | [:link:](https://github.com/RSS-Bridge/rss-bridge) [:arrow_down:](https://github.com/RSS-Bridge/rss-bridge/releases) |
+| [stb](https://github.com/nothings/stb) | A set of single-file public domain libraries for C/C++. | [:link:](https://github.com/nothings/stb) [:arrow_down:](https://github.com/nothings/stb) |
+| [Tor.rb](https://rubygems.org/gems/tor) | A Ruby library for interacting with the Tor anonymity network. | [:link:](https://github.com/dryruby/tor.rb) [:arrow_down:](https://rubygems.org/gems/tor) |
+| [Translate Shell](https://www.soimort.org/translate-shell/) | A command-line translator powered by Google Translate, Bing Translator, Yandex.Translate, and Apertium. | [:link:](https://github.com/soimort/translate-shell) [:arrow_down:](https://github.com/soimort/translate-shell/releases) |
+| [Tween-o-Matic](https://github.com/simonwhitaker/tween-o-matic) | A macOS application for designing CAMediaTimingFunction animation curves. | [:link:](https://github.com/simonwhitaker/tween-o-matic) [:arrow_down:](https://github.com/simonwhitaker/tween-o-matic/releases) |
+| [UN](https://unlicense.developpez.com) | Aiming to write a public domain all-purpose standard library for Java. | [:link:](https://bitbucket.org/Eclesia/un-lib) [:arrow_down:](https://bitbucket.org/Eclesia/un-lib/downloads/) |
+| [WjCryptLib](https://github.com/WaterJuice/WjCryptLib) | A collection of cryptographic functions written in C. | [:link:](https://github.com/WaterJuice/WjCryptLib) [:arrow_down:](https://github.com/WaterJuice/WjCryptLib/releases) |
+| [xsv](https://github.com/BurntSushi/xsv) | A command-line program for indexing, slicing, analyzing, splitting, and joining CSV files. | [:link:](https://github.com/BurntSushi/xsv) [:arrow_down:](https://github.com/BurntSushi/xsv/releases) |
+| [youtube-dl](https://rg3.github.io/youtube-dl/) | A command-line program to download videos from YouTube.com and a few more sites. | [:link:](https://github.com/rg3/youtube-dl) [:arrow_down:](https://github.com/ytdl-org/youtube-dl/releases) |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader. | [:link:](https://github.com/yt-dlp/yt-dlp) [:arrow_down:](https://pypi.org/project/yt-dlp/) |
 
 For more projects, [search GitHub](https://github.com/search?q=license%3Aunlicense&type=Repositories&ref=advsearch&l=&l=&s=stars&o=desc) for repositories using the Unlicense. (As of November 2024, this search returned 358,000+ distinct repositories.)
 
