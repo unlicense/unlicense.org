@@ -76,7 +76,7 @@ Better yet is to ask the major contributors to [digitally sign](https://en.wikip
 
     $ gpg --no-version --armor --sign WAIVER
 
-Note that if a contributor makes significant changes or enhancements in his capacity as an employee of some formal organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](https://www.sqlite.org/copyright.html). The Free Software Foundation (FSF) also [provides an example](https://www.gnu.org/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
+Note that if a contributor makes significant changes or enhancements in their capacity as an employee of some formal organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](https://www.sqlite.org/copyright.html). The Free Software Foundation (FSF) also [provides an example](https://www.gnu.org/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
 
 ::: tip
 For a concrete example of this contributor process, see [how the unlicensed RDF.rb project has handled this](https://lists.w3.org/Archives/Public/public-rdf-ruby/2010May/0013.html).
