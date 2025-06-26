@@ -76,7 +76,7 @@ Better yet is to ask the major contributors to [digitally sign](https://en.wikip
 
     $ gpg --no-version --armor --sign WAIVER
 
-Note that if a contributor makes significant changes or enhancements in his capacity as an employee of some formal organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](https://www.sqlite.org/copyright.html). The Free Software Foundation (FSF) also [provides an example](https://www.gnu.org/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
+Note that if a contributor makes significant changes or enhancements in their capacity as an employee of some formal organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](https://www.sqlite.org/copyright.html). The Free Software Foundation (FSF) also [provides an example](https://www.gnu.org/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
 
 ::: tip
 For a concrete example of this contributor process, see [how the unlicensed RDF.rb project has handled this](https://lists.w3.org/Archives/Public/public-rdf-ruby/2010May/0013.html).
@@ -88,6 +88,7 @@ Here follows a sampling of some excellent software projects that have already ad
 
 | Project | Summary | Links |
 | :------ | :------ | ----: |
+| [ASIMOV](https://asimov.sh) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-cli) [:arrow_down:](https://github.com/asimov-platform) |
 | [furl](https://github.com/gruns/furl) | URL parsing and manipulation made easy. | [:link:](https://github.com/gruns/furl) [:arrow_down:](https://pypi.org/project/furl/) |
 | [gl3w](https://github.com/skaslev/gl3w) | Simple OpenGL core profile loader. | [:link:](https://github.com/skaslev/gl3w) [:arrow_down:](https://github.com/skaslev/gl3w) |
 | [jslint](https://jslint.com) | The JavaScript code quality and coverage tool. | [:link:](https://github.com/jslint-org/jslint) [:arrow_down:](https://npmjs.com/package/@jslint-org/jslint) |
@@ -100,7 +101,7 @@ Here follows a sampling of some excellent software projects that have already ad
 | [Protoflow](https://protoflow.rs) | Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages. | [:link:](https://github.com/asimov-platform/protoflow) [:arrow_down:](https://crates.io/crates/protoflow) |
 | [pytube](https://pytube.io) | A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos. | [:link:](https://github.com/pytube/pytube) [:arrow_down:](https://pypi.org/project/pytube/) |
 | [RDF.rb](https://rubygems.org/gems/rdf) | A Ruby library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/ruby-rdf/rdf) [:arrow_down:](https://rubygems.org/gems/rdf) |
-| [RDF.rs](https://crates.io/crates/rdf-model) | A Rust library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/rust-rdf/rdf.rs) [:arrow_down:](https://crates.io/crates/rdf-model) |
+| [RDF.rs](https://crates.io/crates/rdf_rs) | A Rust library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/rust-rdf/rdf.rs) [:arrow_down:](https://crates.io/crates/rdf_rs) |
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | A line-oriented search tool that recursively searches the current directory for a regex pattern. | [:link:](https://github.com/BurntSushi/ripgrep) [:arrow_down:](https://github.com/BurntSushi/ripgrep/releases) |
 | [RSS-Bridge](https://rss-bridge.org/bridge01/) | A PHP web application that generates RSS feeds for websites that don't have one. | [:link:](https://github.com/RSS-Bridge/rss-bridge) [:arrow_down:](https://github.com/RSS-Bridge/rss-bridge/releases) |
 | [stb](https://github.com/nothings/stb) | A set of single-file public domain libraries for C/C++. | [:link:](https://github.com/nothings/stb) [:arrow_down:](https://github.com/nothings/stb) |
