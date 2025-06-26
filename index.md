@@ -88,7 +88,7 @@ Here follows a sampling of some excellent software projects that have already ad
 
 | Project | Summary | Links |
 | :------ | :------ | ----: |
-| [ASIMOV Platform](https://asimov.so) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-universe) [:arrow_down:](https://github.com/asimov-platform) |
+| [ASIMOV](https://asimov.sh) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-cli) [:arrow_down:](https://github.com/asimov-platform) |
 | [furl](https://github.com/gruns/furl) | URL parsing and manipulation made easy. | [:link:](https://github.com/gruns/furl) [:arrow_down:](https://pypi.org/project/furl/) |
 | [gl3w](https://github.com/skaslev/gl3w) | Simple OpenGL core profile loader. | [:link:](https://github.com/skaslev/gl3w) [:arrow_down:](https://github.com/skaslev/gl3w) |
 | [jslint](https://jslint.com) | The JavaScript code quality and coverage tool. | [:link:](https://github.com/jslint-org/jslint) [:arrow_down:](https://npmjs.com/package/@jslint-org/jslint) |
