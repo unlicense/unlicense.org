@@ -1,0 +1,4 @@
+# See: https://mise.jdx.dev/environments/
+
+[env]
+_.file = '.env'
