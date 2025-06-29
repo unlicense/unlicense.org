@@ -14,17 +14,10 @@ export default defineConfig({
     [
       "script",
       {
-        async: "",
-        src: "https://www.googletagmanager.com/gtag/js?id=G-L75DEDQD3G",
+        defer: "",
+        src: "https://cloud.umami.is/script.js",
+        "data-website-id": "7d44d219-0dc9-4bca-b15c-6107d1a1f62d",
       },
-    ],
-    [
-      "script",
-      {},
-      `window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-L75DEDQD3G');`,
     ],
   ],
   themeConfig: {
