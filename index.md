@@ -93,6 +93,7 @@ Here follows a sampling of some excellent software projects that have already ad
 | [gl3w](https://github.com/skaslev/gl3w) | Simple OpenGL core profile loader. | [:link:](https://github.com/skaslev/gl3w) [:arrow_down:](https://github.com/skaslev/gl3w) |
 | [jslint](https://jslint.com) | The JavaScript code quality and coverage tool. | [:link:](https://github.com/jslint-org/jslint) [:arrow_down:](https://npmjs.com/package/@jslint-org/jslint) |
 | [Kakoune](https://kakoune.org) | An experimental text editor heavily inspired by Vim. | [:link:](https://github.com/mawww/kakoune) [:arrow_down:](https://github.com/mawww/kakoune/releases) |
+| [Libegpu](https://libegpu.dev) | Libegpu is a library for enumerating eGPU devices & enclosures. | [:link:](https://github.com/artob/libegpu) [:arrow_down:](https://crates.io/crates/egpu) |
 | [Miniz](https://github.com/richgel999/miniz) | A single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API. | [:link:](https://github.com/richgel999/miniz) [:arrow_down:](https://github.com/richgel999/miniz/releases) |
 | [NearDrop](https://github.com/grishka/NearDrop) | A partial implementation of Google's Nearby Share/Quick Share for macOS. | [:link:](https://github.com/grishka/NearDrop) [:arrow_down:](https://github.com/grishka/NearDrop/releases) |
 | [node-rdf](https://npmjs.com/package/rdf) | An ECMAScript/Node.js library for handling RDF data. | [:link:](https://github.com/awwright/node-rdf) [:arrow_down:](https://npmjs.com/package/rdf) |
