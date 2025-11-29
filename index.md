@@ -127,7 +127,7 @@ If you would like your own project to be potentially added to this list, please 
 
 Some examples of well-known public domain or [license-free](https://en.wikipedia.org/wiki/License-free_software) software libraries and applications:
 
-- [CERN httpd](http://en.wikipedia.org/wiki/CERN_httpd), the original World Wide Web daemon developed by Tim Berners-Lee, was [in the public domain](http://tenyears-www.web.cern.ch/tenyears-www/Welcome.html).
+- [CERN httpd](http://en.wikipedia.org/wiki/CERN_httpd), the original World Wide Web daemon developed by Tim Berners-Lee, was [in the public domain](https://cds.cern.ch/record/1164399).
 - [SQLite](http://www.sqlite.org/), the [most widely-deployed](http://www.sqlite.org/mostdeployed.html) SQL database in the world, is [in the public domain](http://www.sqlite.org/copyright.html).
 - [qmail](http://www.qmail.org/), the [second-most popular](http://www.qmail.org/top.html) MTA on the Internet, is [in the public domain](http://cr.yp.to/qmail/dist.html).
 - [djbdns](http://cr.yp.to/djbdns.html), the [second-most popular](http://en.wikipedia.org/wiki/Djbdns#cite_note-2) DNS server software on the Internet, is in the public domain.
