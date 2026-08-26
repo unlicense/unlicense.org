@@ -88,8 +88,8 @@ Here follows a sampling of some excellent software projects that have already ad
 
 | Project | Summary | Links |
 | :------ | :------ | ----: |
-| [ASIMOV](https://asimov.sh) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-cli) [:arrow_down:](https://github.com/asimov-platform) |
-| [Bitcache](https://bitcache.dev) | Bitcache is a distributed content-addressable storage (CAS) system. | [:link:](https://github.com/artob/bitcache) [:arrow_down:](https://github.com/artob/bitcache) |
+| [ASIMOV](https://asimov.sh) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-cli) [:arrow_down:](https://crates.io/crates/asimov-sdk) |
+| [Bitcache](https://bitcache.dev) | Bitcache is a distributed content-addressable storage (CAS) system. | [:link:](https://github.com/artob/bitcache) [:arrow_down:](https://crates.io/crates/bitcache) |
 | [Bitchat](https://bitchat.free) | A decentralized peer-to-peer messaging app that operates over Bluetooth mesh networks. | [:link:](https://github.com/permissionlesstech/bitchat) [:arrow_down:](https://github.com/permissionlesstech/bitchat) |
 | [Edky](https://edky.dev) | A command-line tool that converts Ed25519 public keys between various encoding formats. | [:link:](https://github.com/artob/edky) [:arrow_down:](https://crates.io/crates/edky) |
 | [Flows.rs](https://flows.rs) | Building blocks for flow-based programming (FBP) in Rust. | [:link:](https://github.com/artob/flows.rs) [:arrow_down:](https://crates.io/crates/flows) |
