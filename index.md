@@ -25,30 +25,32 @@ Because you have more important things to do than enriching lawyers or imposing 
 
 To opt out of the copyright industry's game altogether and set your code free, put your next software project into the [public domain](https://stpeter.im/writings/essays/publicdomain.html) using the following (un)licensing statement:
 
-    This is free and unencumbered software released into the public domain.
+```
+This is free and unencumbered software released into the public domain.
 
-    Anyone is free to copy, modify, publish, use, compile, sell, or
-    distribute this software, either in source code form or as a compiled
-    binary, for any purpose, commercial or non-commercial, and by any
-    means.
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
-    In jurisdictions that recognize copyright laws, the author or authors
-    of this software dedicate any and all copyright interest in the
-    software to the public domain. We make this dedication for the benefit
-    of the public at large and to the detriment of our heirs and
-    successors. We intend this dedication to be an overt act of
-    relinquishment in perpetuity of all present and future rights to this
-    software under copyright law.
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-    IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-    OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
 
-    For more information, please refer to <https://unlicense.org/>
+For more information, please refer to <https://unlicense.org/>
+```
 
 ::: tip
 In a saner world, you would only need the first one or two paragraphs. For the time being you'll probably [want to retain](https://ar.to/2010/01/dissecting-the-unlicense) the whole shebang. (You should feel free, though, to leave out the last line containing the link to this site, if that's your preference.)
@@ -66,15 +68,19 @@ This removes any possible ambiguity as to what terms somebody might have thought
 
 At minimum, you might ask your contributors to accompany any [non-trivial](https://www.gnu.org/prep/maintain/maintain.html#Legally-Significant) patches with a simple statement like the following:
 
-    I dedicate any and all copyright interest in this software to the
-    public domain. I make this dedication for the benefit of the public at
-    large and to the detriment of my heirs and successors. I intend this
-    dedication to be an overt act of relinquishment in perpetuity of all
-    present and future rights to this software under copyright law.
+```
+I dedicate any and all copyright interest in this software to the
+public domain. I make this dedication for the benefit of the public at
+large and to the detriment of my heirs and successors. I intend this
+dedication to be an overt act of relinquishment in perpetuity of all
+present and future rights to this software under copyright law.
+```
 
 Better yet is to ask the major contributors to [digitally sign](https://en.wikipedia.org/wiki/Digital_signature) a more explicit copyright release (see an example [`WAIVER`](https://unlicense.org/WAIVER) file), and then to keep a record of such signatures in an `AUTHORS` file accompanying your software. Using [GnuPG](https://www.gnupg.org), contributors can sign a copyright waiver file as follows:
 
-    $ gpg --no-version --armor --sign WAIVER
+```bash
+$ gpg --no-version --armor --sign WAIVER
+```
 
 Note that if a contributor makes significant changes or enhancements in their capacity as an employee of some formal organization, then the above may be insufficient and you would additionally need to ask for a copyright disclaimer signed by a company officer. For more information, have a look at [how the SQLite project handles this](https://www.sqlite.org/copyright.html). The Free Software Foundation (FSF) also [provides an example](https://www.gnu.org/licenses/gpl-howto.html) of a simple copyright disclaimer to be signed by an employer.
 
